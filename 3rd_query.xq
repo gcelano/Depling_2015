@@ -1,4 +1,4 @@
-declare variable $p := doc("/Users/mycomputer/Documents/mywork/Depling2015/Nuovo/Polina3.xml");
+declare variable $p := doc("path-of-the-file");
 
 copy $e := $p
 modify(
