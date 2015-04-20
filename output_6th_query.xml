@@ -1,0 +1,1889 @@
+<FRAME signature="NP_V_ADJ.prp.be.ὅντα" primary="NP V ADJ" semantics="prp" id="1" verb-lemma="ὅντα" verb-gloss="be" sentence="2">
+      <sentence>Ὑπὸ τῶν κακῶν τὰ ἀγαθὰ ἐδιώχθη ὡς ἀσθενῆ ὅντα ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="9" form="ὅντα" lemma="ὅντα" postag="v-pppannp" relation="ADV" ref="" sg="adj crc cau" gloss="be" head="7">
+            <word id="8" form="ἀσθενῆ" lemma="ἀσθενής" postag="a-p---nn-" relation="PNOM" ref="" sg="prp" gloss="weak" head="9"/>
+          </word>
+        </V>
+        <ADJ gr="PNOM">
+          <word id="8" form="ἀσθενῆ" lemma="ἀσθενής" postag="a-p---nn-" relation="PNOM" ref="" sg="prp" gloss="weak" head="9"/>
+        </ADJ>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP_S.acc_dpd_aff_nmn_ind_qst.ask.ἐρωτάω" primary="NP V NP S" semantics="acc dpd aff nmn ind qst" id="3" verb-lemma="ἐρωτάω" verb-gloss="ask" sentence="4">
+      <sentence>Τὰ δὲ ἀγαθὰ ἠρώτησαν τὸν Δία πῶς εἶναι μετʼ ἀνθρώπων .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="3" form="ἀγαθὰ" lemma="ἀγαθός" postag="a-p---nn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="good" head="4">
+            <word id="1" form="Τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+          </word>
+        </NP>
+        <V>
+          <word id="4" form="ἠρώτησαν" lemma="ἐρωτάω" postag="v3paia---" relation="PRED_CO" ref="" sg="ind stt" gloss="ask" head="2">
+            <word id="3" form="ἀγαθὰ" lemma="ἀγαθός" postag="a-p---nn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="good" head="4">
+              <word id="1" form="Τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+            </word>
+            <word id="6" form="Δία" lemma="Ζεύς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="Zeus" head="4">
+              <word id="5" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+            </word>
+            <word id="7" form="πῶς" lemma="πως" postag="d--------" relation="AuxC" ref="" sg="mnn" gloss="how" head="4">
+              <word id="8" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_nmn ind qst" gloss="be" head="7">
+                <word id="9" form="μετʼ" lemma="μετά" postag="r--------" relation="AuxP" ref="" sg="" gloss="among" head="8">
+                  <word id="10" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="OBJ" ref="" sg="gnt dpd adp frd_ass" gloss="man" head="9"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="6" form="Δία" lemma="Ζεύς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="Zeus" head="4">
+            <word id="5" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+          </word>
+        </NP>
+        <S gr="AuxC_SBJ" cnj="πως">
+          <word id="8" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_nmn ind qst" gloss="be" head="7">
+            <word id="9" form="μετʼ" lemma="μετά" postag="r--------" relation="AuxP" ref="" sg="" gloss="among" head="8">
+              <word id="10" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="OBJ" ref="" sg="gnt dpd adp frd_ass" gloss="man" head="9"/>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_PP.gnt_dpd_adp_frd_ass.be.εἰμί" primary="NP V PP" semantics="gnt dpd adp frd_ass" id="4" verb-lemma="εἰμί" verb-gloss="be" sentence="4">
+      <sentence>Τὰ δὲ ἀγαθὰ ἠρώτησαν τὸν Δία πῶς εἶναι μετʼ ἀνθρώπων .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="8" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_nmn ind qst" gloss="be" head="7">
+            <word id="9" form="μετʼ" lemma="μετά" postag="r--------" relation="AuxP" ref="" sg="" gloss="among" head="8">
+              <word id="10" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="OBJ" ref="" sg="gnt dpd adp frd_ass" gloss="man" head="9"/>
+            </word>
+          </word>
+        </V>
+        <PP gr="AuxP_OBJ" prep="">
+          <word id="10" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="OBJ" ref="" sg="gnt dpd adp frd_ass" gloss="man" head="9"/>
+        </PP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..say.εἶπον" primary="NP V" semantics="" id="5" verb-lemma="εἶπον" verb-gloss="say" sentence="5">
+      <sentence>Ὁ δὲ εἶπεν μὴ μετʼ ἀλλήλων πάντα , ἓν δὲ καθʼ ἓν τοῖς ἀνθρώποις ἐπέρχεσθαι .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="Ὁ" lemma="Ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="3"/>
+        </NP>
+        <V>
+          <word id="3" form="εἶπεν" lemma="εἶπον" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="say" head="2">
+            <word id="1" form="Ὁ" lemma="Ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="3"/>
+            <word id="10" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" ref="" sg="prt" head="3">
+              <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="10"/>
+              <word id="15" form="ἐπέρχεσθαι" lemma="ἐπέρχομαι" postag="v--pne---" relation="OBJ_CO" ref="" sg="dpd vrb as_acc ind cmm" gloss="come.upon" head="10">
+                <word id="4" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="15"/>
+                <word id="5" form="μετʼ" lemma="μετά" postag="r--------" relation="ADV_CO" ref="" sg="" gloss="along.with" head="15">
+                  <word id="6" form="ἀλλήλων" lemma="ἀλλήλων" postag="p-p---ng-" relation="MWE" ref="" sg="sbs gnt dpd adp acm" gloss="one.another" head="5"/>
+                </word>
+                <word id="7" form="πάντα" lemma="πᾶς" postag="a-p---na-" relation="ATV" ref="" sg="sbs nmn dpd" gloss="each" head="15"/>
+                <word id="9" form="ἓν" lemma="ἓν" postag="d-------p" relation="ADV_CO" ref="" sg="mnn" gloss="one" head="15">
+                  <word id="11" form="καθʼ" lemma="κατά" postag="r--------" relation="AuxP" ref="" sg="" gloss="by" head="9">
+                    <word id="12" form="ἓν" lemma="ἓν" postag="d-------p" relation="MWE" ref="" sg="mnn" gloss="one" head="11"/>
+                  </word>
+                </word>
+                <word id="14" form="ἀνθρώποις" lemma="ἄνθρωπος" postag="n-p---md-" relation="OBJ" ref="" sg="dtv dpd lcv plc lct cnc" gloss="man" head="15">
+                  <word id="13" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..be.εἰμί" primary="NP V" semantics="" id="6" verb-lemma="εἰμί" verb-gloss="be" sentence="6">
+      <sentence>Διὰ τοῦτο τὰ μὲν κακὰ συνεχῆ τοῖς ἀνθρώποις , ὡς πλησίον ὄντα , ἐπέρχεται , τὰ δὲ ἀγαθὰ βράδιον , ἐξ οὐρανοῦ κατιόντα . ἐπέρχεται</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="12" form="ὄντα" lemma="εἰμί" postag="v-pppann-" relation="ADV" ref="" sg="adj crc cau" gloss="be" head="14">
+            <word id="10" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxZ" ref="" sg="" gloss="since" head="12"/>
+            <word id="11" form="πλησίον" lemma="πλησίος" postag="d--------" relation="ADV" ref="" sg="plc lct cnc" gloss="near" head="12"/>
+            <word id="13" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="12"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S_S.dpn_sbs_cls_stt_ind_dpn_sbs_cls_stt_ind.say.λέγω2" primary="NP V S S" semantics="dpn sbs_cls stt ind dpn sbs_cls stt ind" id="8" verb-lemma="λέγω2" verb-gloss="say" sentence="7">
+      <sentence>Ὅτι ἀγαθῶν μὲν οὐδεὶς ταχέως ἐπιτυγχάνει , ὑπὸ δὲ τῶν κακῶν ἕκαστος καθʼ ἑκάστην πλήττεται . λέγει</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="17" insertion_id="0015e" artificial="elliptic" relation="PRED" lemma="λέγω2" postag="v3spia---" form="λέγει" sg="ind stt" gloss="say" head="0">
+            <word id="1" form="Ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="17">
+              <word id="9" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" ref="" sg="prt" head="1">
+                <word id="6" form="ἐπιτυγχάνει" lemma="ἐπιτυγχάνω" postag="v3spia---" relation="OBJ_CO" ref="" sg="dpn sbs_cls stt ind" gloss="meet.with" head="9">
+                  <word id="2" form="ἀγαθῶν" lemma="ἀγαθός" postag="a-p---ng-" relation="OBJ" ref="" sg="sbs gnt dpd prp sbj_obj obj" gloss="good" head="6"/>
+                  <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" ref="" sg="prt" head="6"/>
+                  <word id="4" form="οὐδεὶς" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="no.one" head="6"/>
+                  <word id="5" form="ταχέως" lemma="ταχέως" postag="d--------" relation="ADV" ref="" sg="mnn" gloss="quickly" head="6"/>
+                </word>
+                <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="9"/>
+                <word id="15" form="πλήττεται" lemma="πλήσσω" postag="v3spie---" relation="OBJ_CO" ref="" sg="dpn sbs_cls stt ind" gloss="strike" head="9">
+                  <word id="8" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" ref="" sg="" gloss="by" head="15">
+                    <word id="11" form="κακῶν" lemma="κάκη" postag="n-p---fg-" relation="OBJ" ref="" sg="gnt dpd adp agt" gloss="bad" head="8">
+                      <word id="10" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" ref="" sg="" gloss="the" head="11"/>
+                    </word>
+                  </word>
+                  <word id="12" form="ἕκαστος" lemma="ἕκαστος" postag="a-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="each" head="15"/>
+                  <word id="13" form="καθʼ" lemma="κατά" postag="r--------" relation="AuxP" ref="" sg="" gloss="by" head="15">
+                    <word id="14" form="ἑκάστην" lemma="ἕκαστος" postag="a-s---fa-" relation="ADV" ref="" sg="sbs acc dpd adp mnn" gloss="each" head="13"/>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="AuxC_COORD_SBJ" cnj="">
+          <word id="6" form="ἐπιτυγχάνει" lemma="ἐπιτυγχάνω" postag="v3spia---" relation="OBJ_CO" ref="" sg="dpn sbs_cls stt ind" gloss="meet.with" head="9">
+            <word id="2" form="ἀγαθῶν" lemma="ἀγαθός" postag="a-p---ng-" relation="OBJ" ref="" sg="sbs gnt dpd prp sbj_obj obj" gloss="good" head="6"/>
+            <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" ref="" sg="prt" head="6"/>
+            <word id="4" form="οὐδεὶς" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="no.one" head="6"/>
+            <word id="5" form="ταχέως" lemma="ταχέως" postag="d--------" relation="ADV" ref="" sg="mnn" gloss="quickly" head="6"/>
+          </word>
+        </S>
+        <S gr="AuxC_COORD_SBJ" cnj="">
+          <word id="15" form="πλήττεται" lemma="πλήσσω" postag="v3spie---" relation="OBJ_CO" ref="" sg="dpn sbs_cls stt ind" gloss="strike" head="9">
+            <word id="8" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" ref="" sg="" gloss="by" head="15">
+              <word id="11" form="κακῶν" lemma="κάκη" postag="n-p---fg-" relation="OBJ" ref="" sg="gnt dpd adp agt" gloss="bad" head="8">
+                <word id="10" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" ref="" sg="" gloss="the" head="11"/>
+              </word>
+            </word>
+            <word id="12" form="ἕκαστος" lemma="ἕκαστος" postag="a-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="each" head="15"/>
+            <word id="13" form="καθʼ" lemma="κατά" postag="r--------" relation="AuxP" ref="" sg="" gloss="by" head="15">
+              <word id="14" form="ἑκάστην" lemma="ἕκαστος" postag="a-s---fa-" relation="ADV" ref="" sg="sbs acc dpd adp mnn" gloss="each" head="13"/>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..sell.πωλέω" primary="NP V" semantics="" id="10" verb-lemma="πωλέω" verb-gloss="sell" sentence="9">
+      <sentence>Ξύλινόν τις Ἑρμῆν κατασκευάσας καὶ προσενεγκών εἰς ἀγορὰν ἐπώλει ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="9" form="ἐπώλει" lemma="πωλέω" postag="v3siia---" relation="PRED" ref="" sg="ind stt" gloss="sell" head="0">
+            <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="9">
+              <word id="4" form="κατασκευάσας" lemma="κατασκευάζω" postag="v-sapamn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="make" head="5">
+                <word id="2" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some" head="4"/>
+                <word id="3" form="Ἑρμῆν" lemma="Ἑρμῆς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="Hermes" head="4">
+                  <word id="1" form="Ξύλινόν" lemma="ξύλινος" postag="a-s---ma-" relation="ATR" ref="" sg="prp" gloss="wooden" head="3"/>
+                </word>
+              </word>
+              <word id="6" form="προσενεγκών" lemma="προσφέρω" postag="v-sapamn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="bring.to" head="5">
+                <word id="7" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" ref="" sg="" gloss="to" head="6">
+                  <word id="8" form="ἀγορὰν" lemma="ἀγορά" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd ext spc lct cnc" gloss="market" head="7"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.make.κατασκευάζω" primary="NP V NP" semantics="acc dpd aff" id="11" verb-lemma="κατασκευάζω" verb-gloss="make" sentence="9">
+      <sentence>Ξύλινόν τις Ἑρμῆν κατασκευάσας καὶ προσενεγκών εἰς ἀγορὰν ἐπώλει ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="2" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some" head="4"/>
+        </NP>
+        <V>
+          <word id="4" form="κατασκευάσας" lemma="κατασκευάζω" postag="v-sapamn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="make" head="5">
+            <word id="2" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some" head="4"/>
+            <word id="3" form="Ἑρμῆν" lemma="Ἑρμῆς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="Hermes" head="4">
+              <word id="1" form="Ξύλινόν" lemma="ξύλινος" postag="a-s---ma-" relation="ATR" ref="" sg="prp" gloss="wooden" head="3"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="3" form="Ἑρμῆν" lemma="Ἑρμῆς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="Hermes" head="4">
+            <word id="1" form="Ξύλινόν" lemma="ξύλινος" postag="a-s---ma-" relation="ATR" ref="" sg="prp" gloss="wooden" head="3"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.dpn_sbs_cls_stt_ind.shout.βοάω" primary="NP V S" semantics="dpn sbs_cls stt ind" id="13" verb-lemma="βοάω" verb-gloss="shout" sentence="10">
+      <sentence>μηδενὸς δὲ ὠνητοῦ προσιόντος , ἐκκαλέσασθαί τινας βουλόμενος , ἐβόα ὡς ἀγαθοποιὸν δαίμονα καὶ κέρδους δωρητικὸν πιπράσκει .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="10" form="ἐβόα" lemma="βοάω" postag="v3siia---" relation="PRED_CO" ref="" sg="ind stt" gloss="shout" head="2">
+            <word id="4" form="προσιόντος" lemma="πρόσειμι1" postag="v-sppamg-" relation="ADV" ref="" sg="adj crc cau" gloss="approach" head="10">
+              <word id="3" form="ὠνητοῦ" lemma="ὠνητής" postag="n-s---mg-" relation="SBJ" ref="" sg="nmn dpd" gloss="buyer" head="4">
+                <word id="1" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="ATR" ref="" sg="adj" gloss="no.one" head="3"/>
+              </word>
+              <word id="5" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="4"/>
+            </word>
+            <word id="8" form="βουλόμενος" lemma="βούλομαι" postag="v-sppemn-" relation="ADV" ref="" sg="adj crc cau" gloss="want" head="10">
+              <word id="6" form="ἐκκαλέσασθαί" lemma="ἐκκαλέω" postag="v--anm---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="call.forth" head="8">
+                <word id="7" form="τινας" lemma="τις" postag="p-p---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="some" head="6"/>
+              </word>
+              <word id="9" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="8"/>
+            </word>
+            <word id="11" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="10">
+              <word id="17" form="πιπράσκει" lemma="πιπράσκω" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="sell" head="11">
+                <word id="13" form="δαίμονα" lemma="δαίμων" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="god" head="17">
+                  <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="13">
+                    <word id="12" form="ἀγαθοποιὸν" lemma="ἀγαθοποιός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="prp" gloss="beneficent" head="14"/>
+                    <word id="16" form="δωρητικὸν" lemma="δωρητικός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="vrb_prp" gloss="munificent" head="14">
+                      <word id="15" form="κέρδους" lemma="κέρδος" postag="n-s---ng-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gain" head="16"/>
+                    </word>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="AuxC_SBJ" cnj="ὡς">
+          <word id="17" form="πιπράσκει" lemma="πιπράσκω" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="sell" head="11">
+            <word id="13" form="δαίμονα" lemma="δαίμων" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="god" head="17">
+              <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="13">
+                <word id="12" form="ἀγαθοποιὸν" lemma="ἀγαθοποιός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="prp" gloss="beneficent" head="14"/>
+                <word id="16" form="δωρητικὸν" lemma="δωρητικός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="vrb_prp" gloss="munificent" head="14">
+                  <word id="15" form="κέρδους" lemma="κέρδος" postag="n-s---ng-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gain" head="16"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..approach.πρόσειμι1" primary="NP V" semantics="" id="14" verb-lemma="πρόσειμι1" verb-gloss="approach" sentence="10">
+      <sentence>μηδενὸς δὲ ὠνητοῦ προσιόντος , ἐκκαλέσασθαί τινας βουλόμενος , ἐβόα ὡς ἀγαθοποιὸν δαίμονα καὶ κέρδους δωρητικὸν πιπράσκει .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="3" form="ὠνητοῦ" lemma="ὠνητής" postag="n-s---mg-" relation="SBJ" ref="" sg="nmn dpd" gloss="buyer" head="4">
+            <word id="1" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="ATR" ref="" sg="adj" gloss="no.one" head="3"/>
+          </word>
+        </NP>
+        <V>
+          <word id="4" form="προσιόντος" lemma="πρόσειμι1" postag="v-sppamg-" relation="ADV" ref="" sg="adj crc cau" gloss="approach" head="10">
+            <word id="3" form="ὠνητοῦ" lemma="ὠνητής" postag="n-s---mg-" relation="SBJ" ref="" sg="nmn dpd" gloss="buyer" head="4">
+              <word id="1" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="ATR" ref="" sg="adj" gloss="no.one" head="3"/>
+            </word>
+            <word id="5" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="4"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.sell.πιπράσκω" primary="NP V NP" semantics="acc dpd aff" id="15" verb-lemma="πιπράσκω" verb-gloss="sell" sentence="10">
+      <sentence>μηδενὸς δὲ ὠνητοῦ προσιόντος , ἐκκαλέσασθαί τινας βουλόμενος , ἐβόα ὡς ἀγαθοποιὸν δαίμονα καὶ κέρδους δωρητικὸν πιπράσκει .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="17" form="πιπράσκει" lemma="πιπράσκω" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="sell" head="11">
+            <word id="13" form="δαίμονα" lemma="δαίμων" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="god" head="17">
+              <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="13">
+                <word id="12" form="ἀγαθοποιὸν" lemma="ἀγαθοποιός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="prp" gloss="beneficent" head="14"/>
+                <word id="16" form="δωρητικὸν" lemma="δωρητικός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="vrb_prp" gloss="munificent" head="14">
+                  <word id="15" form="κέρδους" lemma="κέρδος" postag="n-s---ng-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gain" head="16"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="13" form="δαίμονα" lemma="δαίμων" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="god" head="17">
+            <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="13">
+              <word id="12" form="ἀγαθοποιὸν" lemma="ἀγαθοποιός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="prp" gloss="beneficent" head="14"/>
+              <word id="16" form="δωρητικὸν" lemma="δωρητικός" postag="a-s---ma-" relation="ATR_CO" ref="" sg="vrb_prp" gloss="munificent" head="14">
+                <word id="15" form="κέρδους" lemma="κέρδος" postag="n-s---ng-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gain" head="16"/>
+              </word>
+            </word>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_PP.acc_dpd_adp_rcp_add.say.εἶπον" primary="NP V PP" semantics="acc dpd adp rcp_add" id="16" verb-lemma="εἶπον" verb-gloss="say" sentence="11">
+      <sentence>Τῶν δὲ παρατυχόντων τινὸς εἰπόντος πρὸς αὐτόν ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="4" form="τινὸς" lemma="τις" postag="p-s----g-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some" head="5">
+            <word id="3" form="παρατυχόντων" lemma="παρατυγχάνω" postag="v-papamg-" relation="ATR" ref="" sg="sbs gnt dpd prp dvd" gloss="happen.to.be.near" head="4">
+              <word id="1" form="Τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+            </word>
+          </word>
+        </NP>
+        <V>
+          <word id="5" form="εἰπόντος" lemma="εἶπον" postag="v-sapamg-" relation="PRED_CO" ref="" sg="adj crc tmp sml_lct" gloss="say" head="2">
+            <word id="4" form="τινὸς" lemma="τις" postag="p-s----g-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some" head="5">
+              <word id="3" form="παρατυχόντων" lemma="παρατυγχάνω" postag="v-papamg-" relation="ATR" ref="" sg="sbs gnt dpd prp dvd" gloss="happen.to.be.near" head="4">
+                <word id="1" form="Τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+              </word>
+            </word>
+            <word id="6" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="5">
+              <word id="7" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd adp rcp_add" gloss="him" head="6"/>
+            </word>
+          </word>
+        </V>
+        <PP gr="AuxP_OBJ" prep="">
+          <word id="7" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd adp rcp_add" gloss="him" head="6"/>
+        </PP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.sell.πωλέω" primary="NP V NP" semantics="acc dpd aff" id="18" verb-lemma="πωλέω" verb-gloss="sell" sentence="12">
+      <sentence>" Ὦ οὗτος , καὶ τί τοῦτον τοιοῦτον ὄντα πωλεῖς , δέον τῶν παρʼ αὐτοῦ ὠφελειῶν ἀπολαύειν ; " ἐστί</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="10" form="πωλεῖς" lemma="πωλέω" postag="v2spia---" relation="PRED_CO" ref="" sg="ind qst" gloss="sell" head="11">
+            <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="AuxZ" ref="" sg="" gloss="and" head="10"/>
+            <word id="6" form="τί" lemma="τί" postag="d-------p" relation="ADV" ref="" sg="cau" gloss="why" head="10"/>
+            <word id="7" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="10">
+              <word id="9" form="ὄντα" lemma="εἰμί" postag="v-sppama-" relation="ATR" ref="" sg="adj atr" gloss="be" head="7">
+                <word id="8" form="τοιοῦτον" lemma="τοιοῦτος" postag="p-s---ma-" relation="ADV" ref="" sg="adj" gloss="such" head="9"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="7" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="10">
+            <word id="9" form="ὄντα" lemma="εἰμί" postag="v-sppama-" relation="ATR" ref="" sg="adj atr" gloss="be" head="7">
+              <word id="8" form="τοιοῦτον" lemma="τοιοῦτος" postag="p-s---ma-" relation="ADV" ref="" sg="adj" gloss="such" head="9"/>
+            </word>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.gnt_dpd_prp_dvd.enjoy.ἀπολαύω" primary="NP V NP" semantics="gnt dpd prp dvd" id="22" verb-lemma="ἀπολαύω" verb-gloss="enjoy" sentence="12">
+      <sentence>" Ὦ οὗτος , καὶ τί τοῦτον τοιοῦτον ὄντα πωλεῖς , δέον τῶν παρʼ αὐτοῦ ὠφελειῶν ἀπολαύειν ; " ἐστί</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="17" form="ἀπολαύειν" lemma="ἀπολαύω" postag="v--pna---" relation="SBJ" ref="" sg="dpd vrb as_nmn not_ind" gloss="enjoy" head="20">
+            <word id="16" form="ὠφελειῶν" lemma="ὠφέλεια" postag="n-p---fg-" relation="OBJ" ref="" sg="gnt dpd prp dvd" gloss="profit" head="17">
+              <word id="13" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" ref="" sg="" gloss="the" head="16"/>
+              <word id="14" form="παρʼ" lemma="παρά" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="16">
+                <word id="15" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" ref="" sg="sbs gnt dpd abl src" gloss="him" head="14"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="16" form="ὠφελειῶν" lemma="ὠφέλεια" postag="n-p---fg-" relation="OBJ" ref="" sg="gnt dpd prp dvd" gloss="profit" head="17">
+            <word id="13" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" ref="" sg="" gloss="the" head="16"/>
+            <word id="14" form="παρʼ" lemma="παρά" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="16">
+              <word id="15" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" ref="" sg="sbs gnt dpd abl src" gloss="him" head="14"/>
+            </word>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.procure.περιποιέω" primary="NP V NP" semantics="acc dpd aff" id="24" verb-lemma="περιποιέω" verb-gloss="procure" sentence="13">
+      <sentence>ἀπεκρίνατο ὅτι ἐγὼ μὲν ταχείας ὠφελείας τινὸς δέομαι , αὐτὸς δὲ βραδέως εἴωθε τὰ κέρδη περιποιεῖν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="16" form="περιποιεῖν" lemma="περιποιέω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="procure" head="13">
+            <word id="15" form="κέρδη" lemma="κέρδος" postag="n-p---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gain" head="16">
+              <word id="14" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" ref="" sg="" gloss="the" head="15"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="15" form="κέρδη" lemma="κέρδος" postag="n-p---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gain" head="16">
+            <word id="14" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" ref="" sg="" gloss="the" head="15"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_ADJ.prp.be.εἰμί" primary="NP V ADJ" semantics="prp" id="25" verb-lemma="εἰμί" verb-gloss="be" sentence="14">
+      <sentence>Πρὸς ἄνδρα αἰσχροκερδῆ μηδὲ θεῶν πεφροντικότα ὁ λόγος εὔκαιρος . ἐστί</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="8" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fable" head="11">
+            <word id="7" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="8"/>
+          </word>
+        </NP>
+        <V>
+          <word id="11" insertion_id="0009e" artificial="elliptic" relation="PRED" lemma="εἰμί" postag="v3spia---" form="ἐστί" sg="ind stt" gloss="be" head="0">
+            <word id="8" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fable" head="11">
+              <word id="7" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="8"/>
+            </word>
+            <word id="9" form="εὔκαιρος" lemma="εὔκαιρος" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="well-suited" head="11">
+              <word id="1" form="Πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="9">
+                <word id="2" form="ἄνδρα" lemma="ἀνήρ" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd adp rcp_add" gloss="man" head="1">
+                  <word id="3" form="αἰσχροκερδῆ" lemma="αἰσχροκερδής" postag="a-s---ma-" relation="ATR_CO" ref="" sg="prp" gloss="sordidly.greedy.of.gain" head="2"/>
+                  <word id="6" form="πεφροντικότα" lemma="φροντίζω" postag="v-srpama-" relation="ATR_CO" ref="" sg="adj atr" gloss="take.thought" head="2">
+                    <word id="4" form="μηδὲ" lemma="μηδέ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="and.not" head="6"/>
+                    <word id="5" form="θεῶν" lemma="θεός" postag="n-p---mg-" relation="OBJ" ref="" sg="gnt dpd prp sbj_obj obj" gloss="god" head="6"/>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <ADJ gr="PNOM">
+          <word id="9" form="εὔκαιρος" lemma="εὔκαιρος" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="well-suited" head="11">
+            <word id="1" form="Πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="9">
+              <word id="2" form="ἄνδρα" lemma="ἀνήρ" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd adp rcp_add" gloss="man" head="1">
+                <word id="3" form="αἰσχροκερδῆ" lemma="αἰσχροκερδής" postag="a-s---ma-" relation="ATR_CO" ref="" sg="prp" gloss="sordidly.greedy.of.gain" head="2"/>
+                <word id="6" form="πεφροντικότα" lemma="φροντίζω" postag="v-srpama-" relation="ATR_CO" ref="" sg="adj atr" gloss="take.thought" head="2">
+                  <word id="4" form="μηδὲ" lemma="μηδέ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="and.not" head="6"/>
+                  <word id="5" form="θεῶν" lemma="θεός" postag="n-p---mg-" relation="OBJ" ref="" sg="gnt dpd prp sbj_obj obj" gloss="god" head="6"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </ADJ>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.acc_not_ind.decide.διαγιγνώσκω" primary="NP V S" semantics="acc not_ind" id="27" verb-lemma="διαγιγνώσκω" verb-gloss="decide" sentence="16">
+      <sentence>Ἀετὸς καὶ ἀλώπηξ φιλίαν πρὸς ἀλλήλους ποιησάμενοι πλησίον ἑαυτῶν οἰκεῖν διέγνωσαν , βεβαίωσιν φιλίας τὴν συνήθειαν ποιούμενοι .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="11" form="διέγνωσαν" lemma="διαγιγνώσκω" postag="v3paia---" relation="PRED" ref="" sg="ind stt" gloss="decide" head="0">
+            <word id="2" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="11">
+              <word id="1" form="Ἀετὸς" lemma="ἀετός" postag="n-s---mn-" relation="SBJ_CO" ref="" sg="nmn dpd" gloss="eagle" head="2"/>
+              <word id="3" form="ἀλώπηξ" lemma="ἀλώπηξ" postag="n-s---fn-" relation="SBJ_CO" ref="" sg="nmn dpd" gloss="fox" head="2"/>
+            </word>
+            <word id="7" form="ποιησάμενοι" lemma="ποιέω" postag="v-papmmn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="make" head="11">
+              <word id="4" form="φιλίαν" lemma="φιλία" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="friendship" head="7"/>
+              <word id="5" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="7">
+                <word id="6" form="ἀλλήλους" lemma="ἀλλήλων" postag="p-p---ma-" relation="OBJ" ref="" sg="sbs acc dpd adp frd_ass" gloss="one.another" head="5"/>
+              </word>
+            </word>
+            <word id="10" form="οἰκεῖν" lemma="οἰκέω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="settle.in" head="11">
+              <word id="8" form="πλησίον" lemma="πλησίον" postag="r--------" relation="AuxP" ref="" sg="" gloss="near" head="10">
+                <word id="9" form="ἑαυτῶν" lemma="ἑαυτοῦ" postag="p-p---mg-" relation="ADV" ref="" sg="sbs gnt dpd tmp_plc plc lct cnc" gloss="one.another" head="8"/>
+              </word>
+            </word>
+            <word id="12" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="11"/>
+            <word id="17" form="ποιούμενοι" lemma="ποιέω" postag="v-pppemn-" relation="ADV" ref="" sg="adj crc atd" gloss="make" head="11">
+              <word id="13" form="βεβαίωσιν" lemma="βεβαίωσις" postag="n-s---fa-" relation="OCOMP_CO" ref="" sg="acc dpd aff" gloss="warranty" head="17">
+                <word id="14" form="φιλίας" lemma="φιλία" postag="n-s---fg-" relation="OBJ" ref="" sg="gnt dpd prp sbj_obj obj" gloss="friendship" head="13"/>
+              </word>
+              <word id="16" form="συνήθειαν" lemma="συνήθεια" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="habitual.intercourse" head="17">
+                <word id="15" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="16"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="OBJ">
+          <word id="10" form="οἰκεῖν" lemma="οἰκέω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="settle.in" head="11">
+            <word id="8" form="πλησίον" lemma="πλησίον" postag="r--------" relation="AuxP" ref="" sg="" gloss="near" head="10">
+              <word id="9" form="ἑαυτῶν" lemma="ἑαυτοῦ" postag="p-p---mg-" relation="ADV" ref="" sg="sbs gnt dpd tmp_plc plc lct cnc" gloss="one.another" head="8"/>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.snatch.ἀναρπάζω" primary="NP V NP" semantics="acc dpd aff" id="35" verb-lemma="ἀναρπάζω" verb-gloss="snatch" sentence="19">
+      <sentence>Ἐξελθούσης δὲ αὐτῆς ποτε ἐπὶ νομήν , ὁ ἀετός , ἀπορῶν τροφῆς , καταπτὰς εἰς τὸν θάμνον καὶ τὰ γενήματα ἀναρπάσας , μετὰ τῶν ἑαυτοῦ νεοττῶν κατεθοινήσατο .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="21" form="ἀναρπάσας" lemma="ἀναρπάζω" postag="v-sapamn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="snatch" head="18">
+            <word id="20" form="γενήματα" lemma="γένημα" postag="n-p---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="offspring" head="21">
+              <word id="19" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" ref="" sg="" gloss="the" head="20"/>
+            </word>
+            <word id="22" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="21"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="20" form="γενήματα" lemma="γένημα" postag="n-p---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="offspring" head="21">
+            <word id="19" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" ref="" sg="" gloss="the" head="20"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..return.ἐπανέρχομαι" primary="NP V" semantics="" id="36" verb-lemma="ἐπανέρχομαι" verb-gloss="return" sentence="20">
+      <sentence>Ἡ δὲ ἀλώπηξ ἐπανελθοῦσα , ὡς ἔγνω τὸ πραχθέν , οὐ τοσοῦτον ἐπὶ τῷ τῶν νεοττῶν θανάτῳ ἐλυπήθη ὅσον ἐπὶ τῇ ἀμύνῃ · ἐλυπήθη</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="4" form="ἐπανελθοῦσα" lemma="ἐπανέρχομαι" postag="v-sapafn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="return" head="18">
+            <word id="5" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="4"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..learn.γιγνώσκω" primary="NP V" semantics="" id="37" verb-lemma="γιγνώσκω" verb-gloss="learn" sentence="20">
+      <sentence>Ἡ δὲ ἀλώπηξ ἐπανελθοῦσα , ὡς ἔγνω τὸ πραχθέν , οὐ τοσοῦτον ἐπὶ τῷ τῶν νεοττῶν θανάτῳ ἐλυπήθη ὅσον ἐπὶ τῇ ἀμύνῃ · ἐλυπήθη</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="7" form="ἔγνω" lemma="γιγνώσκω" postag="v3saia---" relation="ADV" ref="" sg="dpn adv_cls tmp squ_lct ind" gloss="learn" head="6">
+            <word id="9" form="πραχθέν" lemma="πράσσω" postag="v-sappna-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="do" head="7">
+              <word id="8" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" ref="" sg="" gloss="the" head="9"/>
+              <word id="10" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="9"/>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.chase.διώκω" primary="NP V NP" semantics="acc dpd aff" id="40" verb-lemma="διώκω" verb-gloss="chase" sentence="21">
+      <sentence>χερσαία γὰρ οὖσα πετεινὸν διώκειν ἠδυνάτει .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="5" form="διώκειν" lemma="διώκω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="chase" head="6">
+            <word id="4" form="πετεινὸν" lemma="πετεινός" postag="a-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="winged" head="5"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="4" form="πετεινὸν" lemma="πετεινός" postag="a-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="winged" head="5"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..stand.ἵστημι" primary="NP V" semantics="" id="41" verb-lemma="ἵστημι" verb-gloss="stand" sentence="22">
+      <sentence>Διόπερ πόρρωθεν στᾶσα , ὃ μόνον τοῖς ἀδυνάτοις καὶ ἀσθενέσιν ὑπολείπεται , τῷ ἐχθρῷ κατηρᾶτο .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="3" form="στᾶσα" lemma="ἵστημι" postag="v-sapafn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="stand" head="15">
+            <word id="2" form="πόρρωθεν" lemma="πρόσωθεν" postag="d--------" relation="ADV" ref="" sg="plc lct cnc" gloss="from.afar" head="3"/>
+            <word id="4" form="," lemma="" postag="" relation="AuxX" ref="" sg="" gloss="what" head="3"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.dtv_dpd_prp_ind.happen.συμβαίνω" primary="NP V NP" semantics="dtv dpd prp ind" id="42" verb-lemma="συμβαίνω" verb-gloss="happen" sentence="23">
+      <sentence>Συνέβη δʼ αὐτῷ τῆς εἰς τὴν φιλίαν ἀσεβείας οὐκ εἰς μακρὰν δίκην ὑποσχεῖν ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ_V">
+          <word id="13" form="ὑποσχεῖν" lemma="ὑπέχω" postag="v--ana---" relation="SBJ" ref="" sg="dpd vrb as_nmn not_ind" gloss="undergo" head="1">
+            <word id="8" form="ἀσεβείας" lemma="ἀσέβεια" postag="n-s---fg-" relation="ADV" ref="" sg="gnt dpd prp crm_acn" gloss="ungodliness" head="13">
+              <word id="4" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" ref="" sg="" gloss="the" head="8"/>
+              <word id="5" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" ref="" sg="" gloss="against" head="8">
+                <word id="7" form="φιλίαν" lemma="φιλία" postag="n-s---fa-" relation="ATR" ref="" sg="acc dpd rsp" gloss="friendship" head="5">
+                  <word id="6" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+                </word>
+              </word>
+            </word>
+            <word id="9" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="13"/>
+            <word id="10" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="13">
+              <word id="12" form="δίκην" lemma="δίκη" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd ext spc lct fgr" gloss="justice" head="10">
+                <word id="11" form="μακρὰν" lemma="μακρός" postag="a-s---fa-" relation="ATR" ref="" sg="prp" gloss="far" head="12"/>
+              </word>
+            </word>
+          </word>
+        </NP>
+        <V>
+          <word id="1" form="Συνέβη" lemma="συμβαίνω" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="happen" head="2">
+            <word id="3" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp ind" gloss="him" head="1"/>
+            <word id="13" form="ὑποσχεῖν" lemma="ὑπέχω" postag="v--ana---" relation="SBJ" ref="" sg="dpd vrb as_nmn not_ind" gloss="undergo" head="1">
+              <word id="8" form="ἀσεβείας" lemma="ἀσέβεια" postag="n-s---fg-" relation="ADV" ref="" sg="gnt dpd prp crm_acn" gloss="ungodliness" head="13">
+                <word id="4" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" ref="" sg="" gloss="the" head="8"/>
+                <word id="5" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" ref="" sg="" gloss="against" head="8">
+                  <word id="7" form="φιλίαν" lemma="φιλία" postag="n-s---fa-" relation="ATR" ref="" sg="acc dpd rsp" gloss="friendship" head="5">
+                    <word id="6" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+                  </word>
+                </word>
+              </word>
+              <word id="9" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="13"/>
+              <word id="10" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="13">
+                <word id="12" form="δίκην" lemma="δίκη" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd ext spc lct fgr" gloss="justice" head="10">
+                  <word id="11" form="μακρὰν" lemma="μακρός" postag="a-s---fa-" relation="ATR" ref="" sg="prp" gloss="far" head="12"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="3" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp ind" gloss="him" head="1"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.sacrifice.θύω1" primary="NP V NP" semantics="acc dpd aff" id="45" verb-lemma="θύω1" verb-gloss="sacrifice" sentence="24">
+      <sentence>θυόντων γάρ τινων αἶγα ἐπʼ ἀγροῦ , καταπτὰς ἀπὸ τοῦ βωμοῦ σπλάγχνον ἔμπυρον ἀνήνεγκεν ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="3" form="τινων" lemma="τις" postag="p-p----g-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some.one" head="1"/>
+        </NP>
+        <V>
+          <word id="1" form="θυόντων" lemma="θύω1" postag="v-pppamg-" relation="ADV" ref="" sg="adj crc tmp sml_lct" gloss="sacrifice" head="14">
+            <word id="3" form="τινων" lemma="τις" postag="p-p----g-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some.one" head="1"/>
+            <word id="4" form="αἶγα" lemma="αἴξ" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="goat" head="1"/>
+            <word id="5" form="ἐπʼ" lemma="ἐπί" postag="r--------" relation="AuxP" ref="" sg="" gloss="at" head="1">
+              <word id="6" form="ἀγροῦ" lemma="ἀγρός" postag="n-s---mg-" relation="ADV" ref="" sg="gnt dpd tmp_plc plc lct cnc" gloss="field" head="5">
+                <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="6"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="4" form="αἶγα" lemma="αἴξ" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="goat" head="1"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP_PP.acc_dpd_aff_gnt_dpd_abl_src.kindle.ἀνάπτω" primary="NP V NP PP" semantics="acc dpd aff gnt dpd abl src" id="47" verb-lemma="ἀνάπτω" verb-gloss="kindle" sentence="25">
+      <sentence>οὗ κομισθέντος ἐπὶ τὴν καλιάν , σφοδρὸς ἐμπεσὼν ἄνεμος ἐκ λεπτοῦ καὶ παλαιοῦ κάρφους λαμπρὰν φλόγα ἀνῆψε .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="9" form="ἄνεμος" lemma="ἄνεμος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="wind" head="17">
+            <word id="7" form="σφοδρὸς" lemma="σφοδρός" postag="a-s---mn-" relation="ATR" ref="" sg="prp" gloss="excessive" head="9"/>
+            <word id="8" form="ἐμπεσὼν" lemma="ἐμπίπτω" postag="v-sapamn_" relation="ATR" ref="" sg="adj atr" gloss="fall.upon" head="9"/>
+          </word>
+        </NP>
+        <V>
+          <word id="17" form="ἀνῆψε" lemma="ἀνάπτω" postag="v3saia---" relation="PRED" ref="" sg="ind stt" gloss="kindle" head="0">
+            <word id="2" form="κομισθέντος" lemma="κομίζω" postag="v-sappmg-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="carry.off" head="17">
+              <word id="1" form="οὗ" lemma="ὅς" postag="p-s---mg-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="2"/>
+              <word id="3" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" ref="" sg="" gloss="to" head="2">
+                <word id="5" form="καλιάν" lemma="καλιά" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd ext spc lct cnc" gloss="nest" head="3">
+                  <word id="4" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="5"/>
+                  <word id="6" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="5"/>
+                </word>
+              </word>
+            </word>
+            <word id="9" form="ἄνεμος" lemma="ἄνεμος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="wind" head="17">
+              <word id="7" form="σφοδρὸς" lemma="σφοδρός" postag="a-s---mn-" relation="ATR" ref="" sg="prp" gloss="excessive" head="9"/>
+              <word id="8" form="ἐμπεσὼν" lemma="ἐμπίπτω" postag="v-sapamn_" relation="ATR" ref="" sg="adj atr" gloss="fall.upon" head="9"/>
+            </word>
+            <word id="10" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="17">
+              <word id="14" form="κάρφους" lemma="κάρφος" postag="n-s---ng-" relation="OBJ" ref="" sg="gnt dpd abl src" gloss="dry.stalk" head="10">
+                <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="14">
+                  <word id="11" form="λεπτοῦ" lemma="λεπτός" postag="a-s---ng-" relation="ATR_CO" ref="" sg="prp" gloss="small" head="12"/>
+                  <word id="13" form="παλαιοῦ" lemma="παλαιός" postag="a-s---ng-" relation="ATR_CO" ref="" sg="prp" gloss="old" head="12"/>
+                </word>
+              </word>
+            </word>
+            <word id="16" form="φλόγα" lemma="φλόξ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="fire" head="17">
+              <word id="15" form="λαμπρὰν" lemma="λαμπρός" postag="a-s---fa-" relation="ATR" ref="" sg="prp" gloss="bright" head="16"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="16" form="φλόγα" lemma="φλόξ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="fire" head="17">
+            <word id="15" form="λαμπρὰν" lemma="λαμπρός" postag="a-s---fa-" relation="ATR" ref="" sg="prp" gloss="bright" head="16"/>
+          </word>
+        </NP>
+        <PP gr="AuxP_OBJ" prep="">
+          <word id="14" form="κάρφους" lemma="κάρφος" postag="n-s---ng-" relation="OBJ" ref="" sg="gnt dpd abl src" gloss="dry.stalk" head="10">
+            <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="14">
+              <word id="11" form="λεπτοῦ" lemma="λεπτός" postag="a-s---ng-" relation="ATR_CO" ref="" sg="prp" gloss="small" head="12"/>
+              <word id="13" form="παλαιοῦ" lemma="παλαιός" postag="a-s---ng-" relation="ATR_CO" ref="" sg="prp" gloss="old" head="12"/>
+            </word>
+          </word>
+        </PP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_PP.acc_dpd_drc_cnc.fall.καταπίπτω" primary="NP V PP" semantics="acc dpd drc cnc" id="49" verb-lemma="καταπίπτω" verb-gloss="fall" sentence="26">
+      <sentence>Καὶ διὰ τοῦτο καταφλεχθέντες οἱ νεοττοὶ ( καὶ γὰρ ἦσαν ἔτι ἀτελεῖς οἱ πτηνοί ) ἐπὶ τὴν γῆν κατέπεσον .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="6" form="νεοττοὶ" lemma="νεοσσός" postag="n-p---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="young.bird" head="19">
+            <word id="5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+          </word>
+        </NP>
+        <V>
+          <word id="19" form="κατέπεσον" lemma="καταπίπτω" postag="v3paia---" relation="PRED_CO" ref="" sg="ind stt" gloss="fall" head="1">
+            <word id="4" form="καταφλεχθέντες" lemma="καταφλέγω" postag="v-pappmn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="burn.up" head="19">
+              <word id="2" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" ref="" sg="" gloss="because.of" head="4">
+                <word id="3" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="ADV" ref="" sg="sbs acc dpd adp cau" gloss="this" head="2"/>
+              </word>
+            </word>
+            <word id="6" form="νεοττοὶ" lemma="νεοσσός" postag="n-p---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="young.bird" head="19">
+              <word id="5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+            </word>
+            <word id="8" form="καὶ" lemma="καί" postag="c--------" relation="ExD" ref="" sg="" gloss="and" head="19">
+              <word id="7" form="(" lemma="" postag="" relation="AuxG" ref="" sg="" head="8"/>
+              <word id="10" form="ἦσαν" lemma="εἰμί" postag="v3piia---" relation="PRED_CO" ref="" sg="ind stt" gloss="be" head="8">
+                <word id="9" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" ref="" sg="" head="10"/>
+                <word id="11" form="ἔτι" lemma="ἔτι" postag="d--------" relation="ADV" ref="" sg="tmp sml_lct" gloss="still" head="10"/>
+                <word id="12" form="ἀτελεῖς" lemma="ἀτελής" postag="a-p---mn-" relation="PNOM" ref="" sg="prp" gloss="incomplete" head="10"/>
+                <word id="14" form="πτηνοί" lemma="πτηνός" postag="a-p---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="winged" head="10">
+                  <word id="13" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+                </word>
+              </word>
+              <word id="15" form=")" lemma="" postag="" relation="AuxG" ref="" sg="" head="8"/>
+            </word>
+            <word id="16" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" ref="" sg="" gloss="upon" head="19">
+              <word id="18" form="γῆν" lemma="γῆ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd drc cnc" gloss="ground" head="16">
+                <word id="17" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="18"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <PP gr="AuxP_OBJ" prep="">
+          <word id="18" form="γῆν" lemma="γῆ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd drc cnc" gloss="ground" head="16">
+            <word id="17" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="18"/>
+          </word>
+        </PP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.dpn_sbs_cls_stt_ind.show.δηλόω" primary="NP V S" semantics="dpn sbs_cls stt ind" id="53" verb-lemma="δηλόω" verb-gloss="show" sentence="28">
+      <sentence>Ὁ λόγος δηλοῖ ὅτι οἱ φιλίαν παρασπονδοῦντες , κἂν τὴν τῶν ἠδικημένων ἐκφύγωσι κόλασιν διʼ ἀσθένειαν , ἀλλʼ οὖν γε τὴν ἐκ θεοῦ τιμωρίαν οὐ διακρούονται .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="2" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fable" head="3">
+            <word id="1" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="2"/>
+          </word>
+        </NP>
+        <V>
+          <word id="3" form="δηλοῖ" lemma="δηλόω" postag="v3spia---" relation="PRED" ref="" sg="ind stt" gloss="show" head="0">
+            <word id="2" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fable" head="3">
+              <word id="1" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="2"/>
+            </word>
+            <word id="4" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="3">
+              <word id="26" form="διακρούονται" lemma="διακρούω" postag="v3ppie---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="escape" head="4">
+                <word id="7" form="παρασπονδοῦντες" lemma="παρασπονδέω" postag="v-pppamn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="violate" head="26">
+                  <word id="5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+                  <word id="6" form="φιλίαν" lemma="φιλία" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="friendship" head="7"/>
+                  <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+                </word>
+                <word id="9" form="κἂν" lemma="κἀν" postag="c--------" relation="AuxC" ref="" sg="" gloss="even.if" head="26">
+                  <word id="13" form="ἐκφύγωσι" lemma="ἐκφεύγω" postag="v3pasa---" relation="ADV" ref="" sg="dpn adv_cls cnc not_ind" gloss="escape" head="9">
+                    <word id="14" form="κόλασιν" lemma="κόλασις" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="retribution" head="13">
+                      <word id="10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+                      <word id="12" form="ἠδικημένων" lemma="ἀδικέω" postag="v-prpemg-" relation="ATR" ref="" sg="sbs gnt dpd prp sbj_obj obj" gloss="do.wrong" head="14">
+                        <word id="11" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+                      </word>
+                    </word>
+                    <word id="15" form="διʼ" lemma="διά" postag="r--------" relation="AuxP" ref="" sg="" gloss="because.of" head="13">
+                      <word id="16" form="ἀσθένειαν" lemma="ἀσθένεια" postag="n-s---fa-" relation="ADV" ref="" sg="acc dpd adp cau" gloss="weakness" head="15">
+                        <word id="17" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="16"/>
+                      </word>
+                    </word>
+                  </word>
+                </word>
+                <word id="18" form="ἀλλʼ" lemma="ἀλλά" postag="c--------" relation="AuxY" ref="" sg="" gloss="still" head="26"/>
+                <word id="19" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxZ" ref="" sg="prt" head="26"/>
+                <word id="20" form="γε" lemma="γε" postag="d--------" relation="AuxZ" ref="" sg="prt" head="26"/>
+                <word id="24" form="τιμωρίαν" lemma="τιμωρία" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="vengeance" head="26">
+                  <word id="21" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="24"/>
+                  <word id="22" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="24">
+                    <word id="23" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd abl src" gloss="god" head="22"/>
+                  </word>
+                </word>
+                <word id="25" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="26"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="AuxC_SBJ" cnj="ὅτι2">
+          <word id="26" form="διακρούονται" lemma="διακρούω" postag="v3ppie---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="escape" head="4">
+            <word id="7" form="παρασπονδοῦντες" lemma="παρασπονδέω" postag="v-pppamn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="violate" head="26">
+              <word id="5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+              <word id="6" form="φιλίαν" lemma="φιλία" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="friendship" head="7"/>
+              <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+            </word>
+            <word id="9" form="κἂν" lemma="κἀν" postag="c--------" relation="AuxC" ref="" sg="" gloss="even.if" head="26">
+              <word id="13" form="ἐκφύγωσι" lemma="ἐκφεύγω" postag="v3pasa---" relation="ADV" ref="" sg="dpn adv_cls cnc not_ind" gloss="escape" head="9">
+                <word id="14" form="κόλασιν" lemma="κόλασις" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="retribution" head="13">
+                  <word id="10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+                  <word id="12" form="ἠδικημένων" lemma="ἀδικέω" postag="v-prpemg-" relation="ATR" ref="" sg="sbs gnt dpd prp sbj_obj obj" gloss="do.wrong" head="14">
+                    <word id="11" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+                  </word>
+                </word>
+                <word id="15" form="διʼ" lemma="διά" postag="r--------" relation="AuxP" ref="" sg="" gloss="because.of" head="13">
+                  <word id="16" form="ἀσθένειαν" lemma="ἀσθένεια" postag="n-s---fa-" relation="ADV" ref="" sg="acc dpd adp cau" gloss="weakness" head="15">
+                    <word id="17" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="16"/>
+                  </word>
+                </word>
+              </word>
+            </word>
+            <word id="18" form="ἀλλʼ" lemma="ἀλλά" postag="c--------" relation="AuxY" ref="" sg="" gloss="still" head="26"/>
+            <word id="19" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxZ" ref="" sg="prt" head="26"/>
+            <word id="20" form="γε" lemma="γε" postag="d--------" relation="AuxZ" ref="" sg="prt" head="26"/>
+            <word id="24" form="τιμωρίαν" lemma="τιμωρία" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="vengeance" head="26">
+              <word id="21" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="24"/>
+              <word id="22" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="24">
+                <word id="23" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd abl src" gloss="god" head="22"/>
+              </word>
+            </word>
+            <word id="25" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="26"/>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.escape.ἐκφεύγω" primary="NP V NP" semantics="acc dpd aff" id="55" verb-lemma="ἐκφεύγω" verb-gloss="escape" sentence="28">
+      <sentence>Ὁ λόγος δηλοῖ ὅτι οἱ φιλίαν παρασπονδοῦντες , κἂν τὴν τῶν ἠδικημένων ἐκφύγωσι κόλασιν διʼ ἀσθένειαν , ἀλλʼ οὖν γε τὴν ἐκ θεοῦ τιμωρίαν οὐ διακρούονται .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="13" form="ἐκφύγωσι" lemma="ἐκφεύγω" postag="v3pasa---" relation="ADV" ref="" sg="dpn adv_cls cnc not_ind" gloss="escape" head="9">
+            <word id="14" form="κόλασιν" lemma="κόλασις" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="retribution" head="13">
+              <word id="10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+              <word id="12" form="ἠδικημένων" lemma="ἀδικέω" postag="v-prpemg-" relation="ATR" ref="" sg="sbs gnt dpd prp sbj_obj obj" gloss="do.wrong" head="14">
+                <word id="11" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+              </word>
+            </word>
+            <word id="15" form="διʼ" lemma="διά" postag="r--------" relation="AuxP" ref="" sg="" gloss="because.of" head="13">
+              <word id="16" form="ἀσθένειαν" lemma="ἀσθένεια" postag="n-s---fa-" relation="ADV" ref="" sg="acc dpd adp cau" gloss="weakness" head="15">
+                <word id="17" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="16"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="14" form="κόλασιν" lemma="κόλασις" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="retribution" head="13">
+            <word id="10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+            <word id="12" form="ἠδικημένων" lemma="ἀδικέω" postag="v-prpemg-" relation="ATR" ref="" sg="sbs gnt dpd prp sbj_obj obj" gloss="do.wrong" head="14">
+              <word id="11" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+            </word>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.supplicate.ἱκετεύω" primary="NP V NP" semantics="acc dpd aff" id="57" verb-lemma="ἱκετεύω" verb-gloss="supplicate" sentence="31">
+      <sentence>ὁ δὲ ἐν ἐρημίᾳ τῶν βοηθησόντων ὑπάρχων , ὅν μόνον ὁ καιρὸς παρέσχε , κάνθαρον ἰδών , τοῦτον ἱκέτευεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="ὁ" lemma="ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="19"/>
+        </NP>
+        <V>
+          <word id="19" form="ἱκέτευεν" lemma="ἱκετεύω" postag="v3siia---" relation="PRED_CO" ref="" sg="ind stt" gloss="supplicate" head="2">
+            <word id="1" form="ὁ" lemma="ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="19"/>
+            <word id="7" form="ὑπάρχων" lemma="ὑπάρχω" postag="v-sppamn-" relation="ADV" ref="" sg="adj crc tmp sml_lct" gloss="be" head="19">
+              <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="7">
+                <word id="4" form="ἐρημίᾳ" lemma="ἐρημία" postag="n-s---fd-" relation="ADV" ref="" sg="dtv dpd lcv plc lct fgr" gloss="want.of" head="3">
+                  <word id="6" form="βοηθησόντων" lemma="βοηθέω" postag="v-pfpamg-" relation="ATR" ref="" sg="sbs gnt dpd abl spr fgr" gloss="help" head="4">
+                    <word id="5" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+                  </word>
+                </word>
+              </word>
+              <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+            </word>
+            <word id="16" form="ἰδών" lemma="εἶδον" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="see" head="19">
+              <word id="15" form="κάνθαρον" lemma="κάνθαρος" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="dung-beetle" head="16">
+                <word id="13" form="παρέσχε" lemma="παρέχω" postag="v3saia---" relation="ATR" ref="" sg="dpn adj_cls prp ord not_ind" gloss="hand.over" head="15">
+                  <word id="9" form="ὅν" lemma="ὅς" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="which" head="13">
+                    <word id="10" form="μόνον" lemma="μόνος" postag="a-s---ma-" relation="ATR" ref="" sg="prp" gloss="only" head="9"/>
+                  </word>
+                  <word id="12" form="καιρὸς" lemma="καιρός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="opportunity" head="13">
+                    <word id="11" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+                  </word>
+                  <word id="14" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="13"/>
+                </word>
+              </word>
+              <word id="17" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="16"/>
+            </word>
+            <word id="18" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="19"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="18" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="19"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..be.ὑπάρχω" primary="NP V" semantics="" id="58" verb-lemma="ὑπάρχω" verb-gloss="be" sentence="31">
+      <sentence>ὁ δὲ ἐν ἐρημίᾳ τῶν βοηθησόντων ὑπάρχων , ὅν μόνον ὁ καιρὸς παρέσχε , κάνθαρον ἰδών , τοῦτον ἱκέτευεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="7" form="ὑπάρχων" lemma="ὑπάρχω" postag="v-sppamn-" relation="ADV" ref="" sg="adj crc tmp sml_lct" gloss="be" head="19">
+            <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="7">
+              <word id="4" form="ἐρημίᾳ" lemma="ἐρημία" postag="n-s---fd-" relation="ADV" ref="" sg="dtv dpd lcv plc lct fgr" gloss="want.of" head="3">
+                <word id="6" form="βοηθησόντων" lemma="βοηθέω" postag="v-pfpamg-" relation="ATR" ref="" sg="sbs gnt dpd abl spr fgr" gloss="help" head="4">
+                  <word id="5" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+                </word>
+              </word>
+            </word>
+            <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..help.βοηθέω" primary="NP V" semantics="" id="59" verb-lemma="βοηθέω" verb-gloss="help" sentence="31">
+      <sentence>ὁ δὲ ἐν ἐρημίᾳ τῶν βοηθησόντων ὑπάρχων , ὅν μόνον ὁ καιρὸς παρέσχε , κάνθαρον ἰδών , τοῦτον ἱκέτευεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="6" form="βοηθησόντων" lemma="βοηθέω" postag="v-pfpamg-" relation="ATR" ref="" sg="sbs gnt dpd abl spr fgr" gloss="help" head="4">
+            <word id="5" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.see.εἶδον" primary="NP V NP" semantics="acc dpd aff" id="60" verb-lemma="εἶδον" verb-gloss="see" sentence="31">
+      <sentence>ὁ δὲ ἐν ἐρημίᾳ τῶν βοηθησόντων ὑπάρχων , ὅν μόνον ὁ καιρὸς παρέσχε , κάνθαρον ἰδών , τοῦτον ἱκέτευεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="16" form="ἰδών" lemma="εἶδον" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="see" head="19">
+            <word id="15" form="κάνθαρον" lemma="κάνθαρος" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="dung-beetle" head="16">
+              <word id="13" form="παρέσχε" lemma="παρέχω" postag="v3saia---" relation="ATR" ref="" sg="dpn adj_cls prp ord not_ind" gloss="hand.over" head="15">
+                <word id="9" form="ὅν" lemma="ὅς" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="which" head="13">
+                  <word id="10" form="μόνον" lemma="μόνος" postag="a-s---ma-" relation="ATR" ref="" sg="prp" gloss="only" head="9"/>
+                </word>
+                <word id="12" form="καιρὸς" lemma="καιρός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="opportunity" head="13">
+                  <word id="11" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+                </word>
+                <word id="14" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="13"/>
+              </word>
+            </word>
+            <word id="17" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="16"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="15" form="κάνθαρον" lemma="κάνθαρος" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="dung-beetle" head="16">
+            <word id="13" form="παρέσχε" lemma="παρέχω" postag="v3saia---" relation="ATR" ref="" sg="dpn adj_cls prp ord not_ind" gloss="hand.over" head="15">
+              <word id="9" form="ὅν" lemma="ὅς" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="which" head="13">
+                <word id="10" form="μόνον" lemma="μόνος" postag="a-s---ma-" relation="ATR" ref="" sg="prp" gloss="only" head="9"/>
+              </word>
+              <word id="12" form="καιρὸς" lemma="καιρός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="opportunity" head="13">
+                <word id="11" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+              </word>
+              <word id="14" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="13"/>
+            </word>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.acc_ind_wsh.entreat.παρακαλέω" primary="NP V S" semantics="acc ind wsh" id="62" verb-lemma="παρακαλέω" verb-gloss="entreat" sentence="32">
+      <sentence>ὁ δὲ παραθαρσύνας αὐτόν , ὡς ἐγγὺς ἐλθόντα τὸν ἀετὸν ἐθεάσατο , παρεκάλει μὴ ἀπάγειν αὐτοῦ τὸν ἱκέτην .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="ὁ" lemma="ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="13"/>
+        </NP>
+        <V>
+          <word id="13" form="παρεκάλει" lemma="παρακαλέω" postag="v3siia---" relation="PRED_CO" ref="" sg="ind stt" gloss="entreat" head="2">
+            <word id="1" form="ὁ" lemma="ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="13"/>
+            <word id="3" form="παραθαρσύνας" lemma="παραθαρσύνω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="encourage" head="13">
+              <word id="4" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="3">
+                <word id="5" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="4"/>
+              </word>
+            </word>
+            <word id="6" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxZ" ref="" sg="" gloss="when" head="13">
+              <word id="11" form="ἐθεάσατο" lemma="θεάω" postag="v3saim---" relation="ADV" ref="" sg="dpn adv_cls tmp sml_lct not_ind" gloss="see" head="6">
+                <word id="7" form="ἐγγὺς" lemma="ἐγγύς" postag="d--------" relation="ADV" ref="" sg="plc lct cnc" gloss="near" head="11"/>
+                <word id="8" form="ἐλθόντα" lemma="ἔρχομαι" postag="v-sapama-" relation="OCOMP" ref="" sg="adj spl not_ind" gloss="come" head="11"/>
+                <word id="10" form="ἀετὸν" lemma="ἀετός" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="eagle" head="11">
+                  <word id="9" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" ref="" sg="" gloss="the" head="10"/>
+                </word>
+                <word id="12" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="11"/>
+              </word>
+            </word>
+            <word id="15" form="ἀπάγειν" lemma="ἀπάγω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc ind wsh" gloss="carry.off" head="13">
+              <word id="14" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="15"/>
+              <word id="16" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="OBJ" ref="" sg="sbs gnt dpd abl spr fgr" gloss="him" head="15"/>
+              <word id="18" form="ἱκέτην" lemma="ἱκέτης" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="suppliant" head="15">
+                <word id="17" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" ref="" sg="" gloss="the" head="18"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="OBJ">
+          <word id="15" form="ἀπάγειν" lemma="ἀπάγω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc ind wsh" gloss="carry.off" head="13">
+            <word id="14" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="15"/>
+            <word id="16" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="OBJ" ref="" sg="sbs gnt dpd abl spr fgr" gloss="him" head="15"/>
+            <word id="18" form="ἱκέτην" lemma="ἱκέτης" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="suppliant" head="15">
+              <word id="17" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" ref="" sg="" gloss="the" head="18"/>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.encourage.παραθαρσύνω" primary="NP V NP" semantics="acc dpd aff" id="63" verb-lemma="παραθαρσύνω" verb-gloss="encourage" sentence="32">
+      <sentence>ὁ δὲ παραθαρσύνας αὐτόν , ὡς ἐγγὺς ἐλθόντα τὸν ἀετὸν ἐθεάσατο , παρεκάλει μὴ ἀπάγειν αὐτοῦ τὸν ἱκέτην .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="3" form="παραθαρσύνας" lemma="παραθαρσύνω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="encourage" head="13">
+            <word id="4" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="3">
+              <word id="5" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="4"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="4" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="3">
+            <word id="5" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="4"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..come.ἔρχομαι" primary="NP V" semantics="" id="64" verb-lemma="ἔρχομαι" verb-gloss="come" sentence="32">
+      <sentence>ὁ δὲ παραθαρσύνας αὐτόν , ὡς ἐγγὺς ἐλθόντα τὸν ἀετὸν ἐθεάσατο , παρεκάλει μὴ ἀπάγειν αὐτοῦ τὸν ἱκέτην .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="8" form="ἐλθόντα" lemma="ἔρχομαι" postag="v-sapama-" relation="OCOMP" ref="" sg="adj spl not_ind" gloss="come" head="11"/>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.see.ὑπέρ-εἶδον" primary="NP V NP" semantics="acc dpd aff" id="66" verb-lemma="ὑπέρ-εἶδον" verb-gloss="see" sentence="33">
+      <sentence>κἀκεῖνος ὑπεριδὼν τὴν μικρότητα ἐν ὄψει τοῦ κανθάρου τὸν λαγωὸν κατεθοινήσατο .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="2" form="ὑπεριδὼν" lemma="ὑπέρ-εἶδον" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc cau" gloss="see" head="11">
+            <word id="4" form="μικρότητα" lemma="μικρότης" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="smallness" head="2">
+              <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="4"/>
+              <word id="8" form="κανθάρου" lemma="κάνθαρος" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="dung-beetle" head="4">
+                <word id="7" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="8"/>
+              </word>
+            </word>
+            <word id="5" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="2">
+              <word id="6" form="ὄψει" lemma="ὄψις" postag="n-s---fd-" relation="ADV" ref="" sg="dtv dpd ins prp mnn" gloss="sight" head="5"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="4" form="μικρότητα" lemma="μικρότης" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="smallness" head="2">
+            <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" ref="" sg="" gloss="the" head="4"/>
+            <word id="8" form="κανθάρου" lemma="κάνθαρος" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="dung-beetle" head="4">
+              <word id="7" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="8"/>
+            </word>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..break.κατεάσσω" primary="NP V" semantics="" id="71" verb-lemma="κατεάσσω" verb-gloss="break" sentence="34">
+      <sentence>ὁ δὲ ἀπʼ ἐκείνου μνησικακῶν διετέλει παρατηρούμενος τοῦ ἀετοῦ τὰς καλιὰς καί , εἴ ποτε ἐκεῖνος ἔτικτε , μετάρσιος αἰρόμενος ἐκύλιε τὰ ὠὰ καὶ κατέασσε , μέχρις οὗ πανταχόθεν ἐλαυνόμενος ὁ ἀετὸς ἐπὶ τὸν Δία κατέφυγεν ( ἔστι δὲ τοῦ θεοῦ ἱερὸς ὁ ὄρνις ) καὶ αὐτοῦ ἐδεήθη τόπον αὐτῷ πρὸς νεοττοποιίαν ἀσφαλῆ παρασχεῖν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="25" form="κατέασσε" lemma="κατεάσσω" postag="v3siia---" relation="PRED_CO" ref="" sg="ind stt" gloss="break" head="24">
+            <word id="26" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="25"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_ADJ_NP.prp_gnt_dpd_prp_sbj_obj_sbj.be.εἰμί" primary="NP V ADJ NP" semantics="prp gnt dpd prp sbj_obj sbj" id="73" verb-lemma="εἰμί" verb-gloss="be" sentence="34">
+      <sentence>ὁ δὲ ἀπʼ ἐκείνου μνησικακῶν διετέλει παρατηρούμενος τοῦ ἀετοῦ τὰς καλιὰς καί , εἴ ποτε ἐκεῖνος ἔτικτε , μετάρσιος αἰρόμενος ἐκύλιε τὰ ὠὰ καὶ κατέασσε , μέχρις οὗ πανταχόθεν ἐλαυνόμενος ὁ ἀετὸς ἐπὶ τὸν Δία κατέφυγεν ( ἔστι δὲ τοῦ θεοῦ ἱερὸς ὁ ὄρνις ) καὶ αὐτοῦ ἐδεήθη τόπον αὐτῷ πρὸς νεοττοποιίαν ἀσφαλῆ παρασχεῖν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="44" form="ὄρνις" lemma="ὄρνις" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="bird" head="38">
+            <word id="43" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="44"/>
+          </word>
+        </NP>
+        <V>
+          <word id="38" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="ExD_CO" ref="" sg="ind stt" gloss="be" head="39">
+            <word id="37" form="(" lemma="" postag="" relation="AuxG" ref="" sg="" head="38"/>
+            <word id="41" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="OBJ" ref="" sg="gnt dpd prp sbj_obj sbj" gloss="god" head="38">
+              <word id="40" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="41"/>
+            </word>
+            <word id="42" form="ἱερὸς" lemma="ἱερός" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="holy" head="38"/>
+            <word id="44" form="ὄρνις" lemma="ὄρνις" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="bird" head="38">
+              <word id="43" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="44"/>
+            </word>
+            <word id="45" form=")" lemma="" postag="" relation="AuxG" ref="" sg="" head="38"/>
+          </word>
+        </V>
+        <ADJ gr="PNOM">
+          <word id="42" form="ἱερὸς" lemma="ἱερός" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="holy" head="38"/>
+        </ADJ>
+        <NP gr="OBJ">
+          <word id="41" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="OBJ" ref="" sg="gnt dpd prp sbj_obj sbj" gloss="god" head="38">
+            <word id="40" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="41"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP_NP.acc_dpd_aff_dtv_dpd_prp_ind.provide.παρέχω" primary="NP V NP NP" semantics="acc dpd aff dtv dpd prp ind" id="74" verb-lemma="παρέχω" verb-gloss="provide" sentence="34">
+      <sentence>ὁ δὲ ἀπʼ ἐκείνου μνησικακῶν διετέλει παρατηρούμενος τοῦ ἀετοῦ τὰς καλιὰς καί , εἴ ποτε ἐκεῖνος ἔτικτε , μετάρσιος αἰρόμενος ἐκύλιε τὰ ὠὰ καὶ κατέασσε , μέχρις οὗ πανταχόθεν ἐλαυνόμενος ὁ ἀετὸς ἐπὶ τὸν Δία κατέφυγεν ( ἔστι δὲ τοῦ θεοῦ ἱερὸς ὁ ὄρνις ) καὶ αὐτοῦ ἐδεήθη τόπον αὐτῷ πρὸς νεοττοποιίαν ἀσφαλῆ παρασχεῖν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="54" form="παρασχεῖν" lemma="παρέχω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="provide" head="48">
+            <word id="49" form="τόπον" lemma="τόπος" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="place" head="54"/>
+            <word id="50" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp ind" gloss="him" head="54"/>
+            <word id="51" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="for" head="54">
+              <word id="52" form="νεοττοποιίαν" lemma="νεοσσοποιία" postag="n-s---fa-" relation="ATR" ref="" sg="acc dpd adp fnl" gloss="hatching" head="51">
+                <word id="53" form="ἀσφαλῆ" lemma="ἀσφαλής" postag="a-s---fa-" relation="ATR" ref="" sg="prp" gloss="safe" head="52"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="49" form="τόπον" lemma="τόπος" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="place" head="54"/>
+        </NP>
+        <NP gr="OBJ">
+          <word id="50" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp ind" gloss="him" head="54"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP_S.dtv_dpd_prp_ind_acc_not_ind.entrust.ἐπιτρέπω" primary="NP V NP S" semantics="dtv dpd prp ind acc not_ind" id="76" verb-lemma="ἐπιτρέπω" verb-gloss="entrust" sentence="35">
+      <sentence>τοῦ δὲ Διὸς ἐν τοῖς ἑαυτοῦ κόλποις τίκτειν ἐπιτρέψαντος αὐτῷ , ὁ κάνθαρος τοῦτο ἑωρακώς , κόπρου σφαῖραν ποιήσας ἀνέπτη καὶ γενόμενος κατὰ τοὺς τοῦ Διὸς κόλπους ἐνταῦθα καθῆκεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="3" form="Διὸς" lemma="Ζεύς" postag="n-s---mg-" relation="SBJ" ref="" sg="nmn dpd" gloss="Zeus" head="9">
+            <word id="1" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+          </word>
+        </NP>
+        <V>
+          <word id="9" form="ἐπιτρέψαντος" lemma="ἐπιτρέπω" postag="v-sapamg-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="entrust" head="20">
+            <word id="3" form="Διὸς" lemma="Ζεύς" postag="n-s---mg-" relation="SBJ" ref="" sg="nmn dpd" gloss="Zeus" head="9">
+              <word id="1" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+            </word>
+            <word id="8" form="τίκτειν" lemma="τίκτω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="lay.eggs" head="9">
+              <word id="4" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="8">
+                <word id="7" form="κόλποις" lemma="κόλπος" postag="n-p---md-" relation="ADV" ref="" sg="dtv dpd lcv plc lct cnc" gloss="lap" head="4">
+                  <word id="5" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+                  <word id="6" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="ATR" ref="" sg="adj" gloss="his" head="7"/>
+                </word>
+              </word>
+            </word>
+            <word id="10" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp ind" gloss="him" head="9">
+              <word id="11" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="10"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="10" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp ind" gloss="him" head="9">
+            <word id="11" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="10"/>
+          </word>
+        </NP>
+        <S gr="OBJ">
+          <word id="8" form="τίκτειν" lemma="τίκτω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="lay.eggs" head="9">
+            <word id="4" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" ref="" sg="" gloss="in" head="8">
+              <word id="7" form="κόλποις" lemma="κόλπος" postag="n-p---md-" relation="ADV" ref="" sg="dtv dpd lcv plc lct cnc" gloss="lap" head="4">
+                <word id="5" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+                <word id="6" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="ATR" ref="" sg="adj" gloss="his" head="7"/>
+              </word>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.see.ὁράω" primary="NP V NP" semantics="acc dpd aff" id="78" verb-lemma="ὁράω" verb-gloss="see" sentence="35">
+      <sentence>τοῦ δὲ Διὸς ἐν τοῖς ἑαυτοῦ κόλποις τίκτειν ἐπιτρέψαντος αὐτῷ , ὁ κάνθαρος τοῦτο ἑωρακώς , κόπρου σφαῖραν ποιήσας ἀνέπτη καὶ γενόμενος κατὰ τοὺς τοῦ Διὸς κόλπους ἐνταῦθα καθῆκεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="15" form="ἑωρακώς" lemma="ὁράω" postag="v-srpamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="see" head="20">
+            <word id="14" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="15"/>
+            <word id="16" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="15"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="14" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="15"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.make.ποιέω" primary="NP V NP" semantics="acc dpd aff" id="79" verb-lemma="ποιέω" verb-gloss="make" sentence="35">
+      <sentence>τοῦ δὲ Διὸς ἐν τοῖς ἑαυτοῦ κόλποις τίκτειν ἐπιτρέψαντος αὐτῷ , ὁ κάνθαρος τοῦτο ἑωρακώς , κόπρου σφαῖραν ποιήσας ἀνέπτη καὶ γενόμενος κατὰ τοὺς τοῦ Διὸς κόλπους ἐνταῦθα καθῆκεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="19" form="ποιήσας" lemma="ποιέω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="make" head="20">
+            <word id="18" form="σφαῖραν" lemma="σφαῖρα" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="ball" head="19">
+              <word id="17" form="κόπρου" lemma="κόπρος" postag="n-s---fg-" relation="ATR" ref="" gloss="excrement" sg="gnt dpd prp mtr_cnt" head="18"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="18" form="σφαῖραν" lemma="σφαῖρα" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="ball" head="19">
+            <word id="17" form="κόπρου" lemma="κόπρος" postag="n-s---fg-" relation="ATR" ref="" gloss="excrement" sg="gnt dpd prp mtr_cnt" head="18"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..drop.καθίημι" primary="NP V" semantics="" id="80" verb-lemma="καθίημι" verb-gloss="drop" sentence="35">
+      <sentence>τοῦ δὲ Διὸς ἐν τοῖς ἑαυτοῦ κόλποις τίκτειν ἐπιτρέψαντος αὐτῷ , ὁ κάνθαρος τοῦτο ἑωρακώς , κόπρου σφαῖραν ποιήσας ἀνέπτη καὶ γενόμενος κατὰ τοὺς τοῦ Διὸς κόλπους ἐνταῦθα καθῆκεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="29" form="καθῆκεν" lemma="καθίημι" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="drop" head="21">
+            <word id="22" form="γενόμενος" lemma="γίγνομαι" postag="v-sapmmn-" relation="ADV" ref="" sg="adj crc mnn" gloss="be" head="29">
+              <word id="23" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" ref="" sg="" gloss="downwards" head="22">
+                <word id="27" form="κόλπους" lemma="κόλπος" postag="n-p---ma-" relation="OBJ" ref="" sg="acc dpd drc cnc" gloss="lap" head="23">
+                  <word id="24" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" ref="" sg="" gloss="the" head="27"/>
+                  <word id="26" form="Διὸς" lemma="Ζεύς" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="Zeus" head="27">
+                    <word id="25" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" ref="" sg="" gloss="the" head="26"/>
+                  </word>
+                </word>
+              </word>
+            </word>
+            <word id="28" form="ἐνταῦθα" lemma="ἐνταῦθα" postag="d--------" relation="ADV" ref="" sg="plc lct cnc" gloss="there" head="29"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.acc_ind_stt.say.φημί" primary="NP V S" semantics="acc ind stt" id="84" verb-lemma="φημί" verb-gloss="say" sentence="37">
+      <sentence>ἀπʼ ἐκείνου τέ φασι περὶ ὃν καιρὸν οἱ κάνθαροι γίνονται μὴ νεοττεύειν τοὺς ἀετούς .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="4" form="φασι" lemma="φημί" postag="v3ppia---" relation="PRED" ref="" sg="ind stt" gloss="say" head="0">
+            <word id="1" form="ἀπʼ" lemma="ἀπό" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="4">
+              <word id="2" form="ἐκείνου" lemma="ἐκεῖνος" postag="p-s---ng-" relation="ADV" ref="" sg="sbs gnt dpd abl spr fgr" gloss="that" head="1"/>
+            </word>
+            <word id="3" form="τέ" lemma="τε" postag="d--------" relation="AuxY" ref="" sg="prt" head="4"/>
+            <word id="12" form="νεοττεύειν" lemma="νεοσσεύω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc ind stt" gloss="build.a.nest" head="4">
+              <word id="10" form="γίνονται" lemma="γίγνομαι" postag="v3ppie---" relation="ADV" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="12">
+                <word id="5" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" ref="" sg="" gloss="about" head="10">
+                  <word id="7" form="καιρὸν" lemma="καιρός" postag="n-s---ma-" relation="ADV" ref="" sg="acc dpd ext tmp sml_lct" gloss="season" head="5">
+                    <word id="6" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="ATR" ref="" sg="adj" gloss="who" head="7"/>
+                  </word>
+                </word>
+                <word id="9" form="κάνθαροι" lemma="κάνθαρος" postag="n-p---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="dung-beetle" head="10">
+                  <word id="8" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="9"/>
+                </word>
+              </word>
+              <word id="11" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="12"/>
+              <word id="14" form="ἀετούς" lemma="ἀετός" postag="n-p---ma-" relation="SBJ" ref="" sg="nmn dpd" gloss="eagle" head="12">
+                <word id="13" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="OBJ">
+          <word id="12" form="νεοττεύειν" lemma="νεοσσεύω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc ind stt" gloss="build.a.nest" head="4">
+            <word id="10" form="γίνονται" lemma="γίγνομαι" postag="v3ppie---" relation="ADV" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="12">
+              <word id="5" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" ref="" sg="" gloss="about" head="10">
+                <word id="7" form="καιρὸν" lemma="καιρός" postag="n-s---ma-" relation="ADV" ref="" sg="acc dpd ext tmp sml_lct" gloss="season" head="5">
+                  <word id="6" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="ATR" ref="" sg="adj" gloss="who" head="7"/>
+                </word>
+              </word>
+              <word id="9" form="κάνθαροι" lemma="κάνθαρος" postag="n-p---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="dung-beetle" head="10">
+                <word id="8" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" ref="" sg="" gloss="the" head="9"/>
+              </word>
+            </word>
+            <word id="11" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="12"/>
+            <word id="14" form="ἀετούς" lemma="ἀετός" postag="n-p---ma-" relation="SBJ" ref="" sg="nmn dpd" gloss="eagle" head="12">
+              <word id="13" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" ref="" sg="" gloss="the" head="14"/>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.acc_not_ind.teach.διδάσκω" primary="NP V S" semantics="acc not_ind" id="86" verb-lemma="διδάσκω" verb-gloss="teach" sentence="38">
+      <sentence>Ὁ λόγος διδάσκει μηδενὸς καταφρονεῖν , λογιζομένους ὅτι οὐδεὶς οὕτως ἐστὶν ἀδύνατος ὡς προπηλακισθεὶς μὴ δύνασθαί ποτε ἑαυτὸν ἐκδικῆσαι .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="2" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fable" head="3">
+            <word id="1" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="2"/>
+          </word>
+        </NP>
+        <V>
+          <word id="3" form="διδάσκει" lemma="διδάσκω" postag="v3spia---" relation="PRED" ref="" sg="ind stt" gloss="teach" head="0">
+            <word id="2" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fable" head="3">
+              <word id="1" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="2"/>
+            </word>
+            <word id="5" form="καταφρονεῖν" lemma="καταφρονέω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="look.down.upon" head="3">
+              <word id="4" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="OBJ" ref="" sg="sbs gnt dpd adp hst_ass" gloss="no.one" head="5"/>
+              <word id="6" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="5"/>
+              <word id="7" form="λογιζομένους" lemma="λογίζομαι" postag="v-pppema-" relation="ADV" ref="" sg="adj crc mnn" gloss="consider" head="5">
+                <word id="8" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="7">
+                  <word id="11" form="ἐστὶν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="8">
+                    <word id="9" form="οὐδεὶς" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="no.one" head="11"/>
+                    <word id="10" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" ref="" sg="mnn" gloss="so.much" head="11"/>
+                    <word id="12" form="ἀδύνατος" lemma="ἀδύνατος" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="powerless" head="11"/>
+                    <word id="13" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" ref="" sg="" gloss="as" head="11">
+                      <word id="16" form="δύνασθαί" lemma="δύναμαι" postag="v--pne---" relation="ADV" ref="" sg="dpd vrb unc cns" gloss="be.able" head="13">
+                        <word id="14" form="προπηλακισθεὶς" lemma="προπηλακίζω" postag="v-sappmn-" relation="ADV" ref="" sg="adj crc atd" gloss="treat.with.contumely" head="16"/>
+                        <word id="15" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="16"/>
+                        <word id="17" form="ποτε" lemma="ποτέ" postag="d--------" relation="ADV" ref="" sg="tmp sml_lct" gloss="at.some.time" head="16"/>
+                        <word id="19" form="ἐκδικῆσαι" lemma="ἐκδικέω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="avenge" head="16">
+                          <word id="18" form="ἑαυτὸν" lemma="ἑαυτοῦ" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="himself" head="19"/>
+                        </word>
+                      </word>
+                    </word>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="OBJ">
+          <word id="5" form="καταφρονεῖν" lemma="καταφρονέω" postag="v--pna---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="look.down.upon" head="3">
+            <word id="4" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="OBJ" ref="" sg="sbs gnt dpd adp hst_ass" gloss="no.one" head="5"/>
+            <word id="6" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="5"/>
+            <word id="7" form="λογιζομένους" lemma="λογίζομαι" postag="v-pppema-" relation="ADV" ref="" sg="adj crc mnn" gloss="consider" head="5">
+              <word id="8" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="7">
+                <word id="11" form="ἐστὶν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="8">
+                  <word id="9" form="οὐδεὶς" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="no.one" head="11"/>
+                  <word id="10" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" ref="" sg="mnn" gloss="so.much" head="11"/>
+                  <word id="12" form="ἀδύνατος" lemma="ἀδύνατος" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="powerless" head="11"/>
+                  <word id="13" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" ref="" sg="" gloss="as" head="11">
+                    <word id="16" form="δύνασθαί" lemma="δύναμαι" postag="v--pne---" relation="ADV" ref="" sg="dpd vrb unc cns" gloss="be.able" head="13">
+                      <word id="14" form="προπηλακισθεὶς" lemma="προπηλακίζω" postag="v-sappmn-" relation="ADV" ref="" sg="adj crc atd" gloss="treat.with.contumely" head="16"/>
+                      <word id="15" form="μὴ" lemma="μὴ" postag="d-------p" relation="AuxZ" ref="" sg="ngt" gloss="not" head="16"/>
+                      <word id="17" form="ποτε" lemma="ποτέ" postag="d--------" relation="ADV" ref="" sg="tmp sml_lct" gloss="at.some.time" head="16"/>
+                      <word id="19" form="ἐκδικῆσαι" lemma="ἐκδικέω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="avenge" head="16">
+                        <word id="18" form="ἑαυτὸν" lemma="ἑαυτοῦ" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="himself" head="19"/>
+                      </word>
+                    </word>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.snatch_away.ἁρπάζω" primary="NP V NP" semantics="acc dpd aff" id="90" verb-lemma="ἁρπάζω" verb-gloss="snatch_away" sentence="40">
+      <sentence>Ἀετὸς καταπτὰς ἀπό τινος ὑψηλῆς πέτρας ἄρνα ἥρπασε ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="Ἀετὸς" lemma="ἀετός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="eagle" head="8"/>
+        </NP>
+        <V>
+          <word id="8" form="ἥρπασε" lemma="ἁρπάζω" postag="v3saia---" relation="PRED" ref="" sg="ind stt" gloss="snatch.away" head="0">
+            <word id="1" form="Ἀετὸς" lemma="ἀετός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="eagle" head="8"/>
+            <word id="2" form="καταπτὰς" lemma="καταπέτομαι" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc mnn" gloss="fly.down" head="8">
+              <word id="3" form="ἀπό" lemma="ἀπό" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="2">
+                <word id="6" form="πέτρας" lemma="πέτρα" postag="n-s---fg-" relation="ADV" ref="" sg="gnt dpd abl spr cnc" gloss="rock" head="3">
+                  <word id="4" form="τινος" lemma="τις" postag="p-s----g-" relation="ATR" ref="" sg="adj" gloss="some" head="6"/>
+                  <word id="5" form="ὑψηλῆς" lemma="ὑψηλός" postag="a-s---fg-" relation="ATR" ref="" sg="prp" gloss="high" head="6"/>
+                </word>
+              </word>
+            </word>
+            <word id="7" form="ἄρνα" lemma="ἀρήν" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="lamb" head="8"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="7" form="ἄρνα" lemma="ἀρήν" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="lamb" head="8"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.acc_not_ind.want.ἐθέλω" primary="NP V S" semantics="acc not_ind" id="92" verb-lemma="ἐθέλω" verb-gloss="want" sentence="41">
+      <sentence>κολοιὸς δὲ τοῦτο θεασάμενος διὰ ζῆλον τοῦτον μιμήσασθαι ἠθέλησε ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="κολοιὸς" lemma="κολοιός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="jackdaw" head="9"/>
+        </NP>
+        <V>
+          <word id="9" form="ἠθέλησε" lemma="ἐθέλω" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="want" head="2">
+            <word id="1" form="κολοιὸς" lemma="κολοιός" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="jackdaw" head="9"/>
+            <word id="4" form="θεασάμενος" lemma="θεάω" postag="v-sapmmn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="see" head="9">
+              <word id="3" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="4"/>
+            </word>
+            <word id="5" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" ref="" sg="" gloss="because.of" head="9">
+              <word id="6" form="ζῆλον" lemma="ζῆλος" postag="n-s---ma-" relation="ADV" ref="" sg="acc dpd adp cau" gloss="jealousy" head="5"/>
+            </word>
+            <word id="8" form="μιμήσασθαι" lemma="μιμέομαι" postag="v--ane---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="imitate" head="9">
+              <word id="7" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="8"/>
+            </word>
+          </word>
+        </V>
+        <S gr="OBJ">
+          <word id="8" form="μιμήσασθαι" lemma="μιμέομαι" postag="v--ane---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="imitate" head="9">
+            <word id="7" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="8"/>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.seize.συλλαμβάνω" primary="NP V NP" semantics="acc dpd aff" id="94" verb-lemma="συλλαμβάνω" verb-gloss="seize" sentence="43">
+      <sentence>Ἐμπαρέντων δὲ αὐτοῦ τῶν ὀνύχων τοῖς μαλλοῖς , ἐξαρθῆναι μὴ δυνάμενος ἐπτερύσσετο ἕως ὁ ποιμήν , τὸ γεγονὸς αἰσθόμενος , προσδραμὼν συνέλαβεν αὐτὸν καὶ περικόψας αὐτοῦ τὰ ὀξύπτερα , ὡς ἑσπέρα κατέλαβε , τοῖς ἑαυτοῦ παισὶν ἐκόμισε .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="15" form="ποιμήν" lemma="ποιμήν" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="shepherd" head="22">
+            <word id="14" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="15"/>
+            <word id="16" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="15"/>
+          </word>
+        </NP>
+        <V>
+          <word id="22" form="συνέλαβεν" lemma="συλλαμβάνω" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="seize" head="24">
+            <word id="13" form="ἕως" lemma="ἕως" postag="d-------p" relation="ADV" ref="" sg="tmp squ_drt" gloss="until" head="22"/>
+            <word id="15" form="ποιμήν" lemma="ποιμήν" postag="n-s---mn-" relation="SBJ" ref="" sg="nmn dpd" gloss="shepherd" head="22">
+              <word id="14" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" gloss="the" head="15"/>
+              <word id="16" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="15"/>
+            </word>
+            <word id="19" form="αἰσθόμενος" lemma="αἰσθάνομαι" postag="v-sapmmn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="learn" head="22">
+              <word id="18" form="γεγονὸς" lemma="γίγνομαι" postag="v-srpana-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="be" head="19">
+                <word id="17" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" ref="" sg="" gloss="the" head="18"/>
+              </word>
+              <word id="20" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="19"/>
+            </word>
+            <word id="21" form="προσδραμὼν" lemma="προστρέχω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="run.to" head="22"/>
+            <word id="23" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="22"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="23" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="him" head="22"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..be.γίγνομαι" primary="NP V" semantics="" id="95" verb-lemma="γίγνομαι" verb-gloss="be" sentence="43">
+      <sentence>Ἐμπαρέντων δὲ αὐτοῦ τῶν ὀνύχων τοῖς μαλλοῖς , ἐξαρθῆναι μὴ δυνάμενος ἐπτερύσσετο ἕως ὁ ποιμήν , τὸ γεγονὸς αἰσθόμενος , προσδραμὼν συνέλαβεν αὐτὸν καὶ περικόψας αὐτοῦ τὰ ὀξύπτερα , ὡς ἑσπέρα κατέλαβε , τοῖς ἑαυτοῦ παισὶν ἐκόμισε .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="18" form="γεγονὸς" lemma="γίγνομαι" postag="v-srpana-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="be" head="19">
+            <word id="17" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" ref="" sg="" gloss="the" head="18"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..befall.καταλαμβάνω" primary="NP V" semantics="" id="99" verb-lemma="καταλαμβάνω" verb-gloss="befall" sentence="43">
+      <sentence>Ἐμπαρέντων δὲ αὐτοῦ τῶν ὀνύχων τοῖς μαλλοῖς , ἐξαρθῆναι μὴ δυνάμενος ἐπτερύσσετο ἕως ὁ ποιμήν , τὸ γεγονὸς αἰσθόμενος , προσδραμὼν συνέλαβεν αὐτὸν καὶ περικόψας αὐτοῦ τὰ ὀξύπτερα , ὡς ἑσπέρα κατέλαβε , τοῖς ἑαυτοῦ παισὶν ἐκόμισε .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="31" form="ἑσπέρα" lemma="ἑσπέρα" postag="n-d---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="evening" head="32"/>
+        </NP>
+        <V>
+          <word id="32" form="κατέλαβε" lemma="καταλαμβάνω" postag="v3saia---" relation="ADV" ref="" sg="dpn adv_cls tmp sml_lct not_ind" gloss="befall" head="30">
+            <word id="31" form="ἑσπέρα" lemma="ἑσπέρα" postag="n-d---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="evening" head="32"/>
+            <word id="33" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="32"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..say.φημί" primary="NP V" semantics="" id="100" verb-lemma="φημί" verb-gloss="say" sentence="44">
+      <sentence>Τῶν δὲ πυνθανομένων τί εἴη τὸ ὄρνεον , ἔφη ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="9" form="ἔφη" lemma="φημί" postag="v3siia---" relation="PRED_CO" ref="" sg="ind stt" gloss="say" head="2">
+            <word id="3" form="πυνθανομένων" lemma="πυνθάνομαι" postag="v-pppefg-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="inquire" head="9">
+              <word id="1" form="Τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+              <word id="5" form="εἴη" lemma="εἰμί" postag="v3spoa---" relation="OBJ" ref="" sg="dpn sbs_cls qst ind" gloss="be" head="3">
+                <word id="4" form="τί" lemma="τις" postag="p-s---nn-" relation="PNOM" ref="" sg="adj" gloss="what" head="5"/>
+                <word id="7" form="ὄρνεον" lemma="ὄρνεον" postag="n-s---nn-" relation="SBJ" ref="" sg="nmn dpd" gloss="bird" head="5">
+                  <word id="6" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" ref="" sg="" gloss="the" head="7"/>
+                  <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..know.οἶδα" primary="NP V" semantics="" id="103" verb-lemma="οἶδα" verb-gloss="know" sentence="45">
+      <sentence>" Ὡς μὲν ἐγὼ σαφῶς οἶδα , κολοιός , ὡς δὲ αὐτὸς βούλεται , ἀετός . " ἐστί ἐστί</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="4" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="I" head="6"/>
+        </NP>
+        <V>
+          <word id="6" form="οἶδα" lemma="οἶδα" postag="v1sria---" relation="PRED" ref="" sg="dpn adv_cls cns not_ind" gloss="know" head="2">
+            <word id="4" form="ἐγὼ" lemma="ἐγώ" postag="p1s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="I" head="6"/>
+            <word id="5" form="σαφῶς" lemma="σαφῶς" postag="d-------p" relation="ADV" ref="" sg="mnn" gloss="clearly" head="6"/>
+            <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="6"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..accomplish.ἀνύω" primary="NP V" semantics="" id="105" verb-lemma="ἀνύω" verb-gloss="accomplish" sentence="46">
+      <sentence>Οὕτως ἡ πρὸς τοὺς ὑπερέχοντας ἅμιλλα , πρὸς τῷ μηδὲν ἀνύειν , καὶ ἐπὶ συμφοραῖς προσκτᾶται γέλωτα .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="6" form="ἅμιλλα" lemma="ἅμιλλα" postag="n-s---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="contest.for.superiority" head="11">
+            <word id="2" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+            <word id="3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="6">
+              <word id="5" form="ὑπερέχοντας" lemma="ὑπερέχω" postag="v-pppama-" relation="ATR" ref="" sg="sbs acc dpd adp hst_ass" gloss="overtop" head="3">
+                <word id="4" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" ref="" sg="" gloss="the" head="5"/>
+              </word>
+            </word>
+            <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="6"/>
+          </word>
+        </NP>
+        <V>
+          <word id="11" form="ἀνύειν" lemma="ἀνύω" postag="v--pna---" relation="PRED_CO" ref="" sg="ind abs" gloss="accomplish" head="13">
+            <word id="1" form="Οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" ref="" sg="cns" gloss="in.this.way" head="11"/>
+            <word id="6" form="ἅμιλλα" lemma="ἅμιλλα" postag="n-s---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="contest.for.superiority" head="11">
+              <word id="2" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+              <word id="3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="6">
+                <word id="5" form="ὑπερέχοντας" lemma="ὑπερέχω" postag="v-pppama-" relation="ATR" ref="" sg="sbs acc dpd adp hst_ass" gloss="overtop" head="3">
+                  <word id="4" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" ref="" sg="" gloss="the" head="5"/>
+                </word>
+              </word>
+              <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="6"/>
+            </word>
+            <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" ref="" sg="" gloss="towards" head="11">
+              <word id="10" form="μηδὲν" lemma="μηδείς" postag="p-s---na-" relation="ADV" ref="" sg="sbs acc dpd aff" gloss="no.one" head="8">
+                <word id="9" form="τῷ" lemma="ὁ" postag="l-s---nd-" relation="ATR" ref="" sg="" gloss="the" head="10"/>
+              </word>
+            </word>
+            <word id="12" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="11"/>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.pluck.τίλλω" primary="NP V NP" semantics="acc dpd aff" id="109" verb-lemma="τίλλω" verb-gloss="pluck" sentence="48">
+      <sentence>Ἀετός ποτε ἑάλω ὑπʼ ἀνθρώπου , ὅστις τὰ πτερὰ αὐτοῦ εὐθέως τίλας εἴασεν αὐτὸν ἐν οἴκῳ σὺν ὄρνισιν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="12" form="τίλας" lemma="τίλλω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="pluck" head="13">
+            <word id="9" form="πτερὰ" lemma="πτερόν" postag="n-p---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="feather" head="12">
+              <word id="8" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" ref="" sg="" gloss="the" head="9"/>
+              <word id="10" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" ref="" sg="adj" gloss="him" head="9"/>
+            </word>
+            <word id="11" form="εὐθέως" lemma="εὐθέως" postag="d--------" relation="ADV" ref="" sg="tmp sml_lct" gloss="straightway" head="12"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="9" form="πτερὰ" lemma="πτερόν" postag="n-p---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="feather" head="12">
+            <word id="8" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" ref="" sg="" gloss="the" head="9"/>
+            <word id="10" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" ref="" sg="adj" gloss="him" head="9"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_ADJ.prp.be.ὑπάρχω" primary="NP V ADJ" semantics="prp" id="110" verb-lemma="ὑπάρχω" verb-gloss="be" sentence="49">
+      <sentence>Ὁ δὲ κατηφὴς ἐκ τῆς λύπης ὑπῆρχεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="Ὁ" lemma="Ὁ" postag="p-s---mn-" relation="SBJ" ref="" gloss="he" sg="sbs nmn dpd" head="7"/>
+        </NP>
+        <V>
+          <word id="7" form="ὑπῆρχεν" lemma="ὑπάρχω" postag="v3siia---" relation="PRED_CO" ref="" sg="ind stt" gloss="be" head="2">
+            <word id="1" form="Ὁ" lemma="Ὁ" postag="p-s---mn-" relation="SBJ" ref="" gloss="he" sg="sbs nmn dpd" head="7"/>
+            <word id="3" form="κατηφὴς" lemma="κατηφής" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="downcast" head="7"/>
+            <word id="4" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="7">
+              <word id="6" form="λύπης" lemma="λύπη" postag="n-s---fg-" relation="ADV" ref="" sg="gnt dpd abl cau" gloss="grief" head="4">
+                <word id="5" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" ref="" sg="" gloss="the" head="6"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <ADJ gr="PNOM">
+          <word id="3" form="κατηφὴς" lemma="κατηφής" postag="a-s---mn-" relation="PNOM" ref="" sg="prp" gloss="downcast" head="7"/>
+        </ADJ>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.buy.ἐξαγοράζω" primary="NP V NP" semantics="acc dpd aff" id="112" verb-lemma="ἐξαγοράζω" verb-gloss="buy" sentence="50">
+      <sentence>Ἕτερος δέ τις τοῦτον ἐξαγοράσας ἀνεπτέρωσε τὸν ἀετὸν αὐτίκα .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="5" form="ἐξαγοράσας" lemma="ἐξαγοράζω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="buy" head="6">
+            <word id="4" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="5"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="4" form="τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="5"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP_NP.acc_dpd_aff_dtv_dpd_prp_ind.bring.φέρω" primary="NP V NP NP" semantics="acc dpd aff dtv dpd prp ind" id="113" verb-lemma="φέρω" verb-gloss="bring" sentence="51">
+      <sentence>Ὁ δὲ πετασθεὶς καὶ λαγωὸν ἁρπάσας , ἤνεγκεν εὐθὺς δῶρον τῷ εὐεργέτῃ .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="Ὁ" lemma="Ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="8"/>
+        </NP>
+        <V>
+          <word id="8" form="ἤνεγκεν" lemma="φέρω" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="bring" head="2">
+            <word id="1" form="Ὁ" lemma="Ὁ" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="he" head="8"/>
+            <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="COORD" ref="" sg="" gloss="and" head="8">
+              <word id="3" form="πετασθεὶς" lemma="πετάννυμι" postag="v-sappmn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="fly" head="4"/>
+              <word id="6" form="ἁρπάσας" lemma="ἁρπάζω" postag="v-sapamn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="snatch" head="4">
+                <word id="5" form="λαγωὸν" lemma="λαγῶς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+                <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="6"/>
+              </word>
+            </word>
+            <word id="9" form="εὐθὺς" lemma="εὐθύς2" postag="d--------" relation="ADV" ref="" sg="tmp sml_lct" gloss="straightway" head="8"/>
+            <word id="10" form="δῶρον" lemma="δῶρον" postag="n-s---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gift" head="8"/>
+            <word id="12" form="εὐεργέτῃ" lemma="εὐεργέτης" postag="n-s---md-" relation="OBJ" ref="" sg="dtv dpd prp ind" gloss="benefactor" head="8">
+              <word id="11" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="10" form="δῶρον" lemma="δῶρον" postag="n-s---na-" relation="OBJ" ref="" sg="acc dpd aff" gloss="gift" head="8"/>
+        </NP>
+        <NP gr="OBJ">
+          <word id="12" form="εὐεργέτῃ" lemma="εὐεργέτης" postag="n-s---md-" relation="OBJ" ref="" sg="dtv dpd prp ind" gloss="benefactor" head="8">
+            <word id="11" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+          </word>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.snatch.ἁρπάζω" primary="NP V NP" semantics="acc dpd aff" id="114" verb-lemma="ἁρπάζω" verb-gloss="snatch" sentence="51">
+      <sentence>Ὁ δὲ πετασθεὶς καὶ λαγωὸν ἁρπάσας , ἤνεγκεν εὐθὺς δῶρον τῷ εὐεργέτῃ .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="6" form="ἁρπάσας" lemma="ἁρπάζω" postag="v-sapamn-" relation="ADV_CO" ref="" sg="adj crc tmp squ_lct" gloss="snatch" head="4">
+            <word id="5" form="λαγωὸν" lemma="λαγῶς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+            <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="6"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="5" form="λαγωὸν" lemma="λαγῶς" postag="n-s---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..shout.βοάω" primary="NP V" semantics="" id="115" verb-lemma="βοάω" verb-gloss="shout" sentence="52">
+      <sentence>Τοῦτο ἀλώπηξ κατιδοῦσα ἐβόα ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="2" form="ἀλώπηξ" lemma="ἀλώπηξ" postag="n-s---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fox" head="4"/>
+        </NP>
+        <V>
+          <word id="4" form="ἐβόα" lemma="βοάω" postag="v3siia---" relation="PRED" ref="" sg="ind stt" gloss="shout" head="0">
+            <word id="2" form="ἀλώπηξ" lemma="ἀλώπηξ" postag="n-s---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="fox" head="4"/>
+            <word id="3" form="κατιδοῦσα" lemma="κατεῖδον" postag="v-sapafn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="catch.sight.of" head="4">
+              <word id="1" form="Τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="3"/>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.hunt.κυνηγέω" primary="NP V NP" semantics="acc dpd aff" id="120" verb-lemma="κυνηγέω" verb-gloss="hunt" sentence="53">
+      <sentence>Μὴ τοῦτον σὺ ξένιζε , ἀλλὰ τὸν πρῶτον , μήπως ὁ αὐτός σε πάλιν κυνηγήσας αὖθις τὰ πτερὰ τὰ σὰ κατερημώσῃ . ξένιζε</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="15" form="κυνηγήσας" lemma="κυνηγέω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc cnd" gloss="hunt" head="21">
+            <word id="13" form="σε" lemma="σύ" postag="p2s----a-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="you" head="15"/>
+            <word id="14" form="πάλιν" lemma="πάλιν" postag="d--------" relation="ADV" ref="" sg="tmp sml_lct" gloss="again" head="15"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="13" form="σε" lemma="σύ" postag="p2s----a-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="you" head="15"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.acc_not_ind.seek.ζητέω" primary="NP V S" semantics="acc not_ind" id="125" verb-lemma="ζητέω" verb-gloss="seek" sentence="56">
+      <sentence>Ὑπεράνωθεν πέτρας ἀετὸς ἐκαθέζετο λαγωοὺς θηρεῦσαι ζητῶν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="7" form="ζητῶν" lemma="ζητέω" postag="v-sppamn-" relation="ADV" ref="" sg="adj crc cau" gloss="seek" head="4">
+            <word id="6" form="θηρεῦσαι" lemma="θηρεύω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="hunt" head="7">
+              <word id="5" form="λαγωοὺς" lemma="λαγῶς" postag="n-p---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+            </word>
+          </word>
+        </V>
+        <S gr="OBJ">
+          <word id="6" form="θηρεῦσαι" lemma="θηρεύω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="hunt" head="7">
+            <word id="5" form="λαγωοὺς" lemma="λαγῶς" postag="n-p---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.hunt.θηρεύω" primary="NP V NP" semantics="acc dpd aff" id="126" verb-lemma="θηρεύω" verb-gloss="hunt" sentence="56">
+      <sentence>Ὑπεράνωθεν πέτρας ἀετὸς ἐκαθέζετο λαγωοὺς θηρεῦσαι ζητῶν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="6" form="θηρεῦσαι" lemma="θηρεύω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc not_ind" gloss="hunt" head="7">
+            <word id="5" form="λαγωοὺς" lemma="λαγῶς" postag="n-p---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="5" form="λαγωοὺς" lemma="λαγῶς" postag="n-p---ma-" relation="OBJ" ref="" sg="acc dpd aff" gloss="rabbit" head="6"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.hit.βάλλω" primary="NP V NP" semantics="acc dpd aff" id="127" verb-lemma="βάλλω" verb-gloss="hit" sentence="57">
+      <sentence>Τοῦτον δέ τις ἔβαλε τοξεύσας , καὶ τὸ μὲν βέλος εἴσω εἰσῆλθεν ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="3" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some.one" head="4"/>
+        </NP>
+        <V>
+          <word id="4" form="ἔβαλε" lemma="βάλλω" postag="v3saia---" relation="PRED_CO" ref="" sg="ind stt" gloss="hit" head="7">
+            <word id="1" form="Τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="4"/>
+            <word id="3" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some.one" head="4"/>
+            <word id="5" form="τοξεύσας" lemma="τοξεύω" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc mnn" gloss="shoot.with.a.bow" head="4">
+              <word id="6" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="5"/>
+            </word>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="1" form="Τοῦτον" lemma="οὗτος" postag="p-s---ma-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="this" head="4"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..see.εἶδον" primary="NP V" semantics="" id="132" verb-lemma="εἶδον" verb-gloss="see" sentence="59">
+      <sentence>Ὁ δὲ ἰδὼν ἔφη ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="3" form="ἰδὼν" lemma="εἶδον" postag="v-sapamn-" relation="ADV" ref="" sg="adj crc tmp squ_lct" gloss="see" head="4"/>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP_NP.nmn_dpd_dtv_dpd_prp_int_dsd.be.εἰμί" primary="NP V NP NP" semantics="nmn dpd dtv dpd prp int dsd" id="133" verb-lemma="εἰμί" verb-gloss="be" sentence="60">
+      <sentence>" Καὶ τοῦτό μοι ἑτέρα λύπη , τὸ τοῖς ἐμοῖς πτεροῖς ἀποθνῄσκειν . " ἐστί</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="3" form="τοῦτό" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="this" head="15"/>
+        </NP>
+        <V>
+          <word id="15" insertion_id="0006e" artificial="elliptic" relation="PRED_CO" lemma="εἰμί" postag="v3spia---" form="ἐστί" gloss="be" sg="ind stt" head="2">
+            <word id="3" form="τοῦτό" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="this" head="15"/>
+            <word id="4" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp int dsd" gloss="me" head="15"/>
+            <word id="6" form="λύπη" lemma="λύπη" postag="n-s---fn-" relation="PNOM" ref="" sg="nmn dpd" gloss="grief" head="15">
+              <word id="5" form="ἑτέρα" lemma="ἕτερος" postag="a-d---fn-" relation="ATR" ref="" sg="prp" gloss="other" head="6"/>
+            </word>
+            <word id="7" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="15"/>
+            <word id="12" form="ἀποθνῄσκειν" lemma="ἀποθνήσκω" postag="v--pna---" relation="APOS" ref="" sg="dpd art nmn dpd" gloss="die" head="15">
+              <word id="8" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+              <word id="11" form="πτεροῖς" lemma="πτερόν" postag="n-p---nd-" relation="ADV" ref="" sg="dtv dpd ins prp cau" gloss="feather" head="12">
+                <word id="9" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" ref="" sg="" gloss="the" head="11"/>
+                <word id="10" form="ἐμοῖς" lemma="ἐμός" postag="a-p---nd-" relation="ATR" ref="" sg="prp" gloss="my" head="11"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <NP gr="PNOM">
+          <word id="6" form="λύπη" lemma="λύπη" postag="n-s---fn-" relation="PNOM" ref="" sg="nmn dpd" gloss="grief" head="15">
+            <word id="5" form="ἑτέρα" lemma="ἕτερος" postag="a-d---fn-" relation="ATR" ref="" sg="prp" gloss="other" head="6"/>
+          </word>
+        </NP>
+        <NP gr="OBJ">
+          <word id="4" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" ref="" sg="sbs dtv dpd prp int dsd" gloss="me" head="15"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..die.ἀποθνήσκω" primary="NP V" semantics="" id="134" verb-lemma="ἀποθνήσκω" verb-gloss="die" sentence="60">
+      <sentence>" Καὶ τοῦτό μοι ἑτέρα λύπη , τὸ τοῖς ἐμοῖς πτεροῖς ἀποθνῄσκειν . " ἐστί</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="12" form="ἀποθνῄσκειν" lemma="ἀποθνήσκω" postag="v--pna---" relation="APOS" ref="" sg="dpd art nmn dpd" gloss="die" head="15">
+            <word id="8" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" ref="" sg="" gloss="the" head="12"/>
+            <word id="11" form="πτεροῖς" lemma="πτερόν" postag="n-p---nd-" relation="ADV" ref="" sg="dtv dpd ins prp cau" gloss="feather" head="12">
+              <word id="9" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" ref="" sg="" gloss="the" head="11"/>
+              <word id="10" form="ἐμοῖς" lemma="ἐμός" postag="a-p---nd-" relation="ATR" ref="" sg="prp" gloss="my" head="11"/>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.dpn_sbs_cls_stt_ind.say.λέγω2" primary="NP V S" semantics="dpn sbs_cls stt ind" id="135" verb-lemma="λέγω2" verb-gloss="say" sentence="61">
+      <sentence>Ὅτι τὸ κέντρον τῆς λύπης δεινότερόν ἐστιν , ὅταν τις ἐκ τῶν οἰκείων κινδυνεύσῃ . λέγει</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="16" insertion_id="0000e" artificial="elliptic" relation="PRED" lemma="λέγω2" postag="v3spia---" form="λέγει" sg="ind stt" gloss="say" head="0">
+            <word id="1" form="Ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="16">
+              <word id="7" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="1">
+                <word id="3" form="κέντρον" lemma="κέντρον" postag="n-s---nn-" relation="SBJ" ref="" sg="nmn dpd" gloss="sting" head="7">
+                  <word id="2" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+                  <word id="5" form="λύπης" lemma="λύπη" postag="n-s---fg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="grief" head="3">
+                    <word id="4" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" ref="" sg="" gloss="the" head="5"/>
+                  </word>
+                </word>
+                <word id="6" form="δεινότερόν" lemma="δεινός" postag="a-s---nnc" relation="PNOM" ref="" sg="prp" gloss="terrible" head="7"/>
+                <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+                <word id="9" form="ὅταν" lemma="ὅταν" postag="c--------" relation="AuxC" ref="" sg="" gloss="when" head="7">
+                  <word id="14" form="κινδυνεύσῃ" lemma="κινδυνεύω" postag="v3sasa---" relation="ADV" ref="" sg="dpn adv_cls tmp sml_lct not_ind" gloss="run.risk" head="9">
+                    <word id="10" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some.one" head="14">
+                      <word id="11" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="10">
+                        <word id="13" form="οἰκείων" lemma="οἰκεῖος" postag="a-p---mg-" relation="ATR" ref="" sg="sbs gnt dpd prp dvd" gloss="of.the.same.household" head="11">
+                          <word id="12" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="13"/>
+                        </word>
+                      </word>
+                    </word>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="AuxC_SBJ" cnj="ὅτι2">
+          <word id="7" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="1">
+            <word id="3" form="κέντρον" lemma="κέντρον" postag="n-s---nn-" relation="SBJ" ref="" sg="nmn dpd" gloss="sting" head="7">
+              <word id="2" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" ref="" sg="" gloss="the" head="3"/>
+              <word id="5" form="λύπης" lemma="λύπη" postag="n-s---fg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="grief" head="3">
+                <word id="4" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" ref="" sg="" gloss="the" head="5"/>
+              </word>
+            </word>
+            <word id="6" form="δεινότερόν" lemma="δεινός" postag="a-s---nnc" relation="PNOM" ref="" sg="prp" gloss="terrible" head="7"/>
+            <word id="8" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+            <word id="9" form="ὅταν" lemma="ὅταν" postag="c--------" relation="AuxC" ref="" sg="" gloss="when" head="7">
+              <word id="14" form="κινδυνεύσῃ" lemma="κινδυνεύω" postag="v3sasa---" relation="ADV" ref="" sg="dpn adv_cls tmp sml_lct not_ind" gloss="run.risk" head="9">
+                <word id="10" form="τις" lemma="τις" postag="p-s---mn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="some.one" head="14">
+                  <word id="11" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" ref="" sg="" gloss="from" head="10">
+                    <word id="13" form="οἰκείων" lemma="οἰκεῖος" postag="a-p---mg-" relation="ATR" ref="" sg="sbs gnt dpd prp dvd" gloss="of.the.same.household" head="11">
+                      <word id="12" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" ref="" sg="" gloss="the" head="13"/>
+                    </word>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V..sing.ἀείδω" primary="NP V" semantics="" id="138" verb-lemma="ἀείδω" verb-gloss="sing" sentence="63">
+      <sentence>Ἀηδὼν ἐπί τινος ὑψηλῆς δρυὸς καθημένη κατὰ τὸ σύνηθες ᾖδεν .</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="1" form="Ἀηδὼν" lemma="ἀηδών" postag="n-s---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="nightingale" head="10"/>
+        </NP>
+        <V>
+          <word id="10" form="ᾖδεν" lemma="ἀείδω" postag="v3siia---" relation="PRED" ref="" sg="ind stt" gloss="sing" head="0">
+            <word id="1" form="Ἀηδὼν" lemma="ἀηδών" postag="n-s---fn-" relation="SBJ" ref="" sg="nmn dpd" gloss="nightingale" head="10"/>
+            <word id="6" form="καθημένη" lemma="κάθημαι" postag="v-srpmfn-" relation="ADV" ref="" sg="adj crc mnn" gloss="sit" head="10">
+              <word id="2" form="ἐπί" lemma="ἐπί" postag="r--------" relation="AuxP" ref="" sg="" gloss="upon" head="6">
+                <word id="5" form="δρυὸς" lemma="δρῦς" postag="n-s---fg-" relation="OBJ" ref="" sg="gnt dpd tmp_plc plc lct cnc" gloss="tree" head="2">
+                  <word id="3" form="τινος" lemma="τις" postag="p-s----g-" relation="ATR" ref="" sg="adj" gloss="some" head="5"/>
+                  <word id="4" form="ὑψηλῆς" lemma="ὑψηλός" postag="a-s---fg-" relation="ATR" ref="" sg="prp" gloss="high" head="5"/>
+                </word>
+              </word>
+            </word>
+            <word id="7" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" ref="" sg="" gloss="in.accordance.with" head="10">
+              <word id="9" form="σύνηθες" lemma="συνήθης" postag="a-s---nap" relation="ADV" ref="" sg="sbs acc dpd adp mnn" gloss="usual" head="7">
+                <word id="8" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" ref="" sg="" gloss="the" head="9"/>
+              </word>
+            </word>
+          </word>
+        </V>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_NP.acc_dpd_aff.leave.μεθίημι" primary="NP V NP" semantics="acc dpd aff" id="143" verb-lemma="μεθίημι" verb-gloss="leave" sentence="65">
+      <sentence>Ἡ δὲ μέλλουσα ἀναιρεῖσθαι ἐδέετο αὐτοῦ μεθεῖναι αὐτήν , λέγουσα ὡς οὐχ ἱκανή ἐστιν ἱέρακος αὐτὴ γαστέρα πληρῶσαι ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="7" form="μεθεῖναι" lemma="μεθίημι" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb as_acc ind wsh" gloss="leave" head="5">
+            <word id="8" form="αὐτήν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="her" head="7"/>
+            <word id="9" form="," lemma="" postag="" relation="AuxX" ref="" sg="" head="7"/>
+          </word>
+        </V>
+        <NP gr="OBJ">
+          <word id="8" form="αὐτήν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" ref="" sg="sbs acc dpd aff" gloss="her" head="7"/>
+        </NP>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_S.dpn_sbs_cls_stt_ind.say.λέγω3" primary="NP V S" semantics="dpn sbs_cls stt ind" id="144" verb-lemma="λέγω3" verb-gloss="say" sentence="65">
+      <sentence>Ἡ δὲ μέλλουσα ἀναιρεῖσθαι ἐδέετο αὐτοῦ μεθεῖναι αὐτήν , λέγουσα ὡς οὐχ ἱκανή ἐστιν ἱέρακος αὐτὴ γαστέρα πληρῶσαι ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ"/>
+        <V>
+          <word id="10" form="λέγουσα" lemma="λέγω3" postag="v-sppafn-" relation="ADV" ref="" sg="adj crc mnn" gloss="say" head="5">
+            <word id="11" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" ref="" sg="" gloss="that" head="10">
+              <word id="14" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="11">
+                <word id="12" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="14"/>
+                <word id="13" form="ἱκανή" lemma="ἱκανός" postag="a-s---fn-" relation="PNOM" ref="" sg="prp" gloss="sufficing" head="14"/>
+                <word id="16" form="αὐτὴ" lemma="αὐτός" postag="p-s---fn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="she" head="14"/>
+                <word id="18" form="πληρῶσαι" lemma="πληρόω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb unc fnl" gloss="make.full" head="14">
+                  <word id="17" form="γαστέρα" lemma="γαστήρ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="belly" head="18">
+                    <word id="15" form="ἱέρακος" lemma="ἱέραξ" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="hawk" head="17"/>
+                  </word>
+                </word>
+              </word>
+            </word>
+          </word>
+        </V>
+        <S gr="AuxC_SBJ" cnj="ὡς">
+          <word id="14" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="11">
+            <word id="12" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="14"/>
+            <word id="13" form="ἱκανή" lemma="ἱκανός" postag="a-s---fn-" relation="PNOM" ref="" sg="prp" gloss="sufficing" head="14"/>
+            <word id="16" form="αὐτὴ" lemma="αὐτός" postag="p-s---fn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="she" head="14"/>
+            <word id="18" form="πληρῶσαι" lemma="πληρόω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb unc fnl" gloss="make.full" head="14">
+              <word id="17" form="γαστέρα" lemma="γαστήρ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="belly" head="18">
+                <word id="15" form="ἱέρακος" lemma="ἱέραξ" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="hawk" head="17"/>
+              </word>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
+<FRAME signature="NP_V_ADJ_S.prp_dpd_vrb_unc_fnl.be.εἰμί" primary="NP V ADJ S" semantics="prp dpd vrb unc fnl" id="145" verb-lemma="εἰμί" verb-gloss="be" sentence="65">
+      <sentence>Ἡ δὲ μέλλουσα ἀναιρεῖσθαι ἐδέετο αὐτοῦ μεθεῖναι αὐτήν , λέγουσα ὡς οὐχ ἱκανή ἐστιν ἱέρακος αὐτὴ γαστέρα πληρῶσαι ·</sentence>
+      <SYNTAX>
+        <NP gr="SBJ">
+          <word id="16" form="αὐτὴ" lemma="αὐτός" postag="p-s---fn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="she" head="14"/>
+        </NP>
+        <V>
+          <word id="14" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="OBJ" ref="" sg="dpn sbs_cls stt ind" gloss="be" head="11">
+            <word id="12" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxZ" ref="" sg="ngt" gloss="not" head="14"/>
+            <word id="13" form="ἱκανή" lemma="ἱκανός" postag="a-s---fn-" relation="PNOM" ref="" sg="prp" gloss="sufficing" head="14"/>
+            <word id="16" form="αὐτὴ" lemma="αὐτός" postag="p-s---fn-" relation="SBJ" ref="" sg="sbs nmn dpd" gloss="she" head="14"/>
+            <word id="18" form="πληρῶσαι" lemma="πληρόω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb unc fnl" gloss="make.full" head="14">
+              <word id="17" form="γαστέρα" lemma="γαστήρ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="belly" head="18">
+                <word id="15" form="ἱέρακος" lemma="ἱέραξ" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="hawk" head="17"/>
+              </word>
+            </word>
+          </word>
+        </V>
+        <ADJ gr="PNOM">
+          <word id="13" form="ἱκανή" lemma="ἱκανός" postag="a-s---fn-" relation="PNOM" ref="" sg="prp" gloss="sufficing" head="14"/>
+        </ADJ>
+        <S gr="OBJ">
+          <word id="18" form="πληρῶσαι" lemma="πληρόω" postag="v--ana---" relation="OBJ" ref="" sg="dpd vrb unc fnl" gloss="make.full" head="14">
+            <word id="17" form="γαστέρα" lemma="γαστήρ" postag="n-s---fa-" relation="OBJ" ref="" sg="acc dpd aff" gloss="belly" head="18">
+              <word id="15" form="ἱέρακος" lemma="ἱέραξ" postag="n-s---mg-" relation="ATR" ref="" sg="gnt dpd prp pss_bln" gloss="hawk" head="17"/>
+            </word>
+          </word>
+        </S>
+      </SYNTAX>
+    </FRAME>
