@@ -6,7 +6,7 @@ xquery version "3.0" encoding "utf-8";
    can be found in the text of Aesop: this helped me to write the query extracting argument structure, since I could avoid 
    writing a more complex algorithm :)
 
-declare variable $p := doc("/Users/mycomputer/Documents/mywork/Depling2015/Nuovo/Polina2.xml");
+declare variable $p := doc("path-of-the-file");
 
 let $a := for $t at $count in $p//word[@postag[matches(., "v........")]]/word[@relation="COORD"]
 					return
