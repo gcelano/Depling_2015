@@ -1,7 +1,5 @@
 xquery version "3.0" encoding "utf-8";
 
-(: This query has been written by Giuseppe G. A Celano and tested on BaseX 8.1.1 :)
-
 (: This query has been written to check how many and which functional nodes (more precisely, COORD and AuxP nodes) 
    can be found in the text of Aesop: this helped me to write the query extracting argument structure, since I could avoid 
    writing a more complex algorithm :)
