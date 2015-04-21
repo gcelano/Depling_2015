@@ -1,3 +1,5 @@
+xquery version "3.0" encoding "utf-8";
+
 declare variable $p := doc("path-of-the-file");
 
 copy $e := $p
